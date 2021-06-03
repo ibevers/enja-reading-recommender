@@ -1,0 +1,45 @@
+letter
+July 4, 2nd year of Keio, addressed to Takayoshi Kido
+Ryoma Sakamoto
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Rei << (re) >>
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Numbers are JIS X 0213 area area number or Unicode, base page and number of lines)
+(Example) * [# Two-character dot, 1-2-22]
+
+[# ...]: Return point
+(Example) Yes [#]
+-------------------------------------------------- -----
+
+Visit the county after Gobetsu, the Shimonoseki Hamata War and his younger brother, Dofuzo Mataya Jima Ha Sashiku Rei << (re) >> Maika, Haya * [# 2 character dot, 1 -2-22] How urgent the road is, the person who consults with the younger brother, the urgent office, the hurry to the road over the night, the 4th morning Seki visit, what the time is coming soon D. Declaration left.
+[# 3 indentation] July 4th [# with ground] Dragon
+[# 4 indentation] Mr. Kei Ki, left and right
+After the war, the British ship visited Nagasaki again, and it was an interesting event.
+Whitening
+[# Indent two characters from here]
+The other day, when I visited the Seki of the British and French warships, I found that there was no warship. [# Warichū] Hikyaku Ship's Yofu [# Line break] and [# Line break] Aimi. [# End of warichū]
+[# End of indentation here]
+
+This warship Niha "Admiral" and "Ministor" are also available. The other day, I'm sorry for the visitor ship.
+When it comes to the monkey, it will be possible to visit again soon on the ship of the port side gun gate [# re], or Shinpachi Murata will not come [# re] for this reason. Haya * [# Two-character dot, 1-2-22]. You should also think about it.
+
+
+
+Bottom book: "Letter of Ryoma" Saichiro Miyaji, Kodansha Academic Bunko, Kodansha
+First print issued on December 10, 2003
+Issued the 7th edition on September 19, 2008
+* The caption of the photo of the bottom letter says (Imperial Household Agency Kido family document).
+* Words in parentheses were added when the original was edited.
+* I omitted the line breaks that match the wrapping of the handwritten letter.
+* "This warship Niha-Orazari Yoshi." Is written sideways (from right to left) in the upper margin of "Kaneshi Kuru to Haya * [# Two-character dot, 1-2-22]." It is written in 3 columns. In addition, the last item, "I'm also thinking about it.", Is an additional item in the upper margin.
+Input: Yanajin33
+Calibration: Hanren
+Created July 28, 2010
+Revised June 17, 2011
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

@@ -1,0 +1,33 @@
+One side of the world
+Hiroshi Makimura
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) [# With line break from here, wrap and indent by 2 characters]
+
+/ \: Double dance character (repeated symbol in the shape of a vertically lengthened "ku")
+(Example) No / \
+-------------------------------------------------- -----
+
+[# With line break from here, wrap and indent by 2 characters]
+(1) [# "(1)" is tate-chu-yoko] "Kuma-san, what happened today?
+"No / \ The company is totally neglected to raise wages"
+(2) [# "(2)" is tate-chu-yoko] "Kuma-san, what happened today?
+"Ye / \ Why are there too many people in the company today?
+(3) [# "(3)" is tate-chu-yoko] Finally / \ This is what happened, please take care if you have a good mouth somewhere. "
+The bear was scratching his head.
+[# End of indentation here]
+[# Raise one character from the ground] (11, 6, 14)
+
+
+
+Bottom book: "Complete Works of Ko Makimura" Heibondo Bookstore
+Issued on January 20, 1984 (Showa 59)
+* The work when the author was in the third and fourth grades of Kochi City Dairoku Elementary School. It was recorded in the original from the mimeographed version of the school's collection of texts, "Buds."
+Input: Shinichi Sakamoto
+Calibration: Yukimori
+Created on September 11, 2014
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

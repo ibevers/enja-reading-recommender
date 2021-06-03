@@ -1,0 +1,79 @@
+Where did the blackboard come from
+Kinnosuke Ogura
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Old system << Ancien Regime >>
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) [# 5 indentation] 1 [# "1" is a middle heading]
+-------------------------------------------------- -----
+
+[# 5 indentation] 1 [# "1" is the middle heading]
+
+While investigating the history of American mathematics, I touched on the problem of the history of the blackboard, so let's write it down a little. However, since this is mainly a consideration only from the aspect of mathematics, it is difficult to measure whether some of them are making big mistakes. We are waiting for the guidance of experts from various fields.
+The blackboard became popular in Japan because of the educational guidance given by Americans in the first year of the Meiji era. When the September Normal School (the predecessor of Tokyo Higher Normal School (1) [# "(1)" is a line right small writing]) was opened in 1872, the University South School (2) [ We invited Scott (MM Scott), who was a teacher of # "(2)" is a small writing on the right side of the line], and asked him to tell us the actual teaching method in elementary school. Scott was from a normal school in his home country and taught English and arithmetic mainly at a normal school in Tokyo, but he said that he used textbooks and teaching instruments after arriving from the United States. The following year, David Murray, a professor of mathematics and astronomy at Rutgers University, was appointed as a superintendent of the Ministry of Education, and was given full guidance in education in Japan.
+Well, it can be seen from his report that Murray encouraged the use of blackboards (3) [# "(3)" is a small line on the right side of the line].
+[# Indent from here]
+"Editing various books, various instruments. Immediately ... Suspension / model coating board [#" Model coating board "is a side point] Method 2nd generation, tehirokuyuki wo elementary school 2 recruitment line. …… The normal school's utility has already been established in Tokyo. ...... Department of Woshite Easy to understand Karashimenga, Suspension and coating board [# "Emphasis mark" on the side point] Wohi, …… (side point is Kokura) "
+[# Indent two characters from here]
+[# 29 characters from here]
+(1) The predecessor of the current Tokyo University of Education (2) The predecessor of the current University of Tokyo (3) "David Murray Shen Bao" (Meiji 6).
+[# End of character filling here]
+[# End of indentation here]
+
+How the blackboard was used by Scott at the normal school is also clear from the book "Normal School, Elementary School Teaching Method" (published in August 1868), which was reviewed by the principal of the normal school, Nobuzumi Morokatsu. .. Among them, there is a picture of using a blackboard for arithmetic lessons, and there is a picture that says, "As shown in the figure, write the teacher, numbers and arithmetic numbers on the stone board by calling, and when all the writing is finished, the teacher board As mentioned above, aiming at this, those who are right should raise their hands, and those who are wrong should raise their hands. "
+Furthermore, in "Must-have for elementary school teachers" (published in December 1868), which is written by the principal, Nobuzumi Morokatsu, teaching methods such as reading, arithmetic, penmanship, writing, and questions and answers are described, and the use of blackboards is described there. The law is also explained in detail. For example, for the 8th grade (first half of the 1st grade) penmanship
+[# Indent from here]
+"For the Japanese syllabary, the stroke order is explained, the slate is painted on the slate, each student is slate ... Large letters, or irregular strokes, etc., the late teacher's slate, the horizontal straight line, the correct slate, the student's slate, the student's slate. , Slate line drawing, slate writing, slate writing, side runi, character stroke order, etc. Wo understanding sessim ……. Slate written on the slate, slate written on the slate, twice or three times, slate, and must be written once.
+[# End of indentation here]
+Also, for example, for 6th grade (first half of the 2nd grade) arithmetic,
+[# Indent from here]
+"... Right-hand mental arithmetic, additional two-step addition title, one-line homophone for each student, nine additions, addition, and answer It's a good idea, but it's a good idea, it's a good idea, it's a lot of letters, it's a student, it's a good idea, it's a two-step addition, and it's three or more steps. Each student has a mental arithmetic, and each student has an answer, and each student has a mental arithmetic, and each student has a right hand. This answer is correct, and the answer is written by other students.
+[# End of indentation here]
+Although something was too formal, it was a model explanation that was completely exhausted. I think it was no coincidence that the use of blackboards became widespread in a relatively short period of time.
+
+[# 5 indentation] Two [# "two" is the middle heading]
+
+If so, was the blackboard invented in the United States? No, it was probably introduced to the United States by the French in the 1810s. In ordinary American schools, not only before the Revolutionary War (1775-1783), but also in the years after independence, even the slate was not used yet. Both students and teachers wrote their writings and arithmetic calculations on paper.
+By the way, according to the biography of a Boston minister, Samuel J. May (1866), he is a Catholic Frenchman, Francis Xavier Brosius, who uses a blackboard in a math school. I saw it for the first time in 1813. That's why Master Mae started using the blackboard at his school.
+However, it is said that it was around 1860 that the spread of blackboards was seen in primary schools in the United States, but then Scott unexpectedly spread the new blackboards in Japan. ..
+However, blackboards were used earlier in universities and math classes in Karejji. It originated from a professor of mathematics at the West Point Military Academy, which had a major influence on the American mathematics world during the period 1820-1840.
+
+The War of 1812 was said to be a turning point in American history in many ways. At the end of the war, the headquarters of the West Point Military Academy began in 1817, using the French Ecole Polytechnic (Higher Science and Technology School) as an example, as a result of research on the European Army system. The school was remodeled. Therefore, this school was completely different from ordinary universities in the United States at that time, and emphasized mathematics and physics and chemistry most, which was realized by youthful professors, one of them. There was a Frenchman, Claude Crozet.
+Clause was a graduate of École Polytechnique and an artillery officer under Napoleon, who also participated in the Battle of Wagram (1809), from 1816 to 1823 in the West. He was active as a point engineering teacher. When he tried to teach military engineering- "the science of war and fortification" -there had to start with the mathematics needed as background knowledge. There was descriptive geometry in it.
+If you think about it, it's only been over 20 years since the study of descriptive geometry was published by its founder (Ecole Polytechnique), Gaspard Monge. There were no scientists in the United States who knew there was such a new scholarship, of course no one was taught it, and there were no books written in English. There was no textbook, and this geometry could not be taught verbally (due to the nature of scholarship). So Clause asked a carpenter and a paint shop to make a blackboard and white ink. "As far as we know, the use of the blackboard owes to Closee. He was seeing it at École Polytechnique in France," recalls a person from West Point at the time. Is.
+When you think about it, the people I've mentioned so far, like Murray, Scott, and Brosius, were all involved in mathematics in some way. However, it can be said that Closee used the blackboard in the most serious sense due to the nature of scholarship. In 1821, Clause wrote an English introduction to descriptive geometry (only 150 pages). He is called "the father of descriptive geometry in America".
+The lecture on Descriptive Geometry at West Point was continued by Charles Davies, a native of West Point, after Closee left. Not only did Devis write a much larger textbook of descriptive geometry than Closee, he became a well-known figure as a good math teacher and author of many math textbooks. He started out as a translator of French mathematics books and was very successful, but later wrote his own textbook, ranging from the basics of arithmetic to calculus. It was so popular that it made West Point so popular.
+
+[# 5 indentation] Three [# "three" is the middle heading]
+
+By the way, we have to go back to Closee's alma mater, Ecole Polytechnic in Paris. This school is so "European envy" that "the light of all science at the beginning of the nineteenth century radiated from Ecole Polytechnic and illuminated the development of scientific thinking in Europe". It is a school that has become the target of Europe. Shortly after the horror of the French Revolution, it was opened in 1794 with the dual purpose of training science and technology engineers to expand production and excellent gunner officers. The central figure was Monju himself.
+Originally, Monju started the construction of descriptive geometry around 1765, motivated by devising a simple geometric drawing instead of a troublesome calculation for the design of castle construction. I was there. However, the method was banned from publication under the old pre-revolutionary regime, the Ancien Régime, because it belonged to military technology secrets. The revolutionary government now founded École Polytechnique, where, due to the nature of scholarship, descriptive geometry became a very important subject, and was taught very enthusiastically by Monju and his high-ranking brothers. (Monju was a professor until 1806, and even after becoming the chairman of the Senate that year, he continued to give lectures until 1810, so Clause is a direct pupil of Monju.) When he was a professor, he not only used blackboards, projection drawings, and curved surface models, but also set up a drafting room for student training. Such equipment was an unprecedented plan in Europe at that time [# "Ateha" is "Atsuha" in the bottom line].
+Originally, something like a blackboard may have been used to some extent in France for some time. But with the amazing success of the school, the blackboard, along with other scientific models and instruments, has become a tool for teaching and researching science and technology, and with excellent textbooks and equipment, it has become widely available around the world. It must be said that Ecole Polytechnic played a major role in its dissemination. In that sense, it is no exaggeration to say that "descriptive geometry and blackboards are by-products of the French Revolution." In the era of our democratic revolution today, when we stand in front of the blackboard, we should deeply recall this great democratic revolution-the French Revolution.
+
+[# 5 indentation] 4 [# "4" is the middle heading]
+
+Let's reach here and return to the starting point again. What kind of power was my mathematics world under when my education was taught by Murray and Scott in the early Meiji era? Needless to say, it was American mathematics that dominated it at that time. Moreover, the most influential book until around the 8th year of the Meiji era was the book of Devis of the West Point Military Academy-although he later turned to another. Not only was it widely read in the original book alone, but several books were translated and adapted. His name was written in Chinese characters, such as Daisui and Ii.
+The history of academic and cultural transmission seems to be dominated by many accidental factors, but it is not always the case. Rather, the problem is mainly related to the strength of our own theory and analysis.
+[# Raise two characters from the ground] (May 3, 1497, the same year, "Separate volume Bungei Shunju" October issue)
+[# 30 characters from here]
+[# Indent one character from here, indent and indent 6 characters]
+* [Addition] For details on Devis' achievements and their Japanese translation, see "History of Mathematics Education" (Iwanami Shoten). For more information on École Polytechnique and Monju, please refer to "History of Mathematics" (Iwanami Shoten), 1st and 2nd.
+[# End of indentation here]
+[# End of character filling here]
+
+
+Bottom book: "Complete World Culture Collection, Separate Volume 1, Japanese Essays and Essays" Heibonsha
+First edition issued on November 20, 1962 (Showa 37)
+Reprinted on August 15, 1963 (Showa 38)
+First appearance: "Separate volume Bungei Shunju"
+October 1947 (Showa 22) issue
+Input: sogo
+Proofreading: Michio Tomita
+Created December 9, 2012
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.
+

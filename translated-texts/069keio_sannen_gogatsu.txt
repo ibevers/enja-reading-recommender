@@ -1,0 +1,33 @@
+letter
+May 11th, 3rd year of Keio, addressed to Akiyama
+Ryoma Sakamoto
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) [# Warichū] However, universal public law. [# End of warichū]
+
+[# ...]: Return point
+(Example) Difficult [#] Yes
+-------------------------------------------------- -----
+
+Yui Send [# Warichū] However, it is a universal public law. [# End of warichū] Difficult [# Re] Conservation [# Re] Existence. And the live board character is not correct [# re] [# "Zare" and "(mama)" note] B, the missing character C Note to "(see)"] Please consult with us, and you can apply for the previous Itaki master. Proclaimed words.
+[# 3 indentation] Eleven days
+[# 2 indentation] Professor Akiyama [# with ground] Saiya
+[# 6 indentation] Left and right
+
+
+
+Bottom book: "Letter of Ryoma" Saichiro Miyaji, Kodansha Academic Bunko, Kodansha
+First print issued on December 10, 2003
+Issued the 7th edition on September 19, 2008
+* The caption of the photo of the bottom letter says (Oarai Town, Museum of Bakumatsu and Meiji).
+* Words in parentheses were added when the original was edited.
+* I omitted the line breaks that match the wrapping of the handwritten letter.
+Input: Yanajin33
+Calibration: Hanren
+Created July 28, 2010
+Revised June 17, 2011
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

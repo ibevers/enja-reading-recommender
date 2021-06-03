@@ -1,0 +1,51 @@
+Vuan Dine's style
+Hatsunosuke Hirabayashi
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Great Buddha << Farewell >>
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Numbers are JIS X 0213 area area number, or original page and number of lines)
+(Example) 2 [# "2" is a Roman numeral, 1-13-22]
+-------------------------------------------------- -----
+
+[# 5 indentation] 1 [# "1" is the middle heading]
+
+S.S. Van Dine, who appeared in the United States like a comet a few years ago, is by far the author of the throne among many American detective novel writers.
+He has authored one recent work and five novels, including "Bensun Murder Case," "Canary Murder Case," "Green Murder Case," and "The Bishop Murder Case," and several other short stories.
+The former three were already made into a movie, starring William Powell, and all three were imported into Japan. All three were talkies, but I remember that the first "Canary Murder Case" was held silently because it was a time when the talkies were not yet available in Japan.
+Originally, making a detective novel into a movie seemed difficult, and neither Sherlock Holmes nor Lupine had ever succeeded. Talkies have some convenience over silent films in that respect. But none of Van Dine's films seemed to be very successful. Yet, the fact that the film company continued to make up to three films of his work is enough to see how unusual his popularity is.
+
+[# 5 indentation] Two [# "two" is the middle heading]
+
+Not only in detective novels, but also in general popular novels, American novels are forever lower than novels in Britain and the continent of Europe, with stupid lines, sword-like tempos, and a uniform happy ending. Many of them are spinning and have little artistic value. Especially in detective novels, I also liked detective novels for a while, and I had read a lot of new magazines, but I rarely bumped into a work that I thought. ..
+Under these circumstances, S.S.Van Dine's work is shining.
+In particular, he has a new taste for each work, so there is no such thing as a bad work. Everything, from the composition of the story to the method of criminal investigation to the text that expresses it, is solid without a minute. In England, beyond the sea, there is now a detective novel epidemic called Edgar Wallace. In terms of his prolific work, he marvels at the energy of releasing big works one after another with ease, but there is still some slack in taking each one. I can't cover the traces that I wrote down easily. Apparently I shouldn't seem to be better off bringing Wallace to America and Van Dine to England. Van Dine stands out among American writers.
+
+[# 5 indentation] Three [# "three" is the middle heading]
+
+What is the reason why Van Dine's detective novels have become so popular in the reading world? I think it is in that psychological analysis. His work isn't just about figuratively twisting and developing fictitious narrative lines. It is given enough flesh so as not to overlook the process of internal psychology as well as the process of external incidents. And it's not just because it's necessary for the trick, it's his overall style. This is the reason why his work is given a sense of reality and artistry. At the same time, there's a reason why it's so popular in the ridiculous American detective novel world. Popularity is something that is related to a little thing, and it is never born by looking at the reader too much and deliberately trying to invest in the popularity of the reader.
+It is similar to the fact that the Great Buddha "Osaragi" Jiro's "Ako Namishi" gained popularity in the Japanese popular literature world. In this work, he raised the traditional level of popular literary arts a bit and gave it artistry and reality. It was popular. But while the Great Buddha's work is still compromised, Van Dine's detective novel is uncompromising. It's systemic. There is no such thing as having a low reader in mind. That is his good point.
+
+[# 5 indentation] 4 [# "4" is the middle heading]
+
+There is no intentional hint in his work. Instead, the whole thing from the first page to the criminal's rise is like a hint, and you can't just read every page, every line, every word of the characters. It is his principle not to write anything unrelated to crime. Yet, he squeezes in detail what seems to have nothing to do with crime, and if so, things that are inconsistent with each other and cannot be traced to logic.
+In The Greene Murder Case, amateur detective Phyllo Vance lists nearly 200 items that can be used as clues to search for a crime. It is close to 200. Moreover, they are inconsistent with each other. In most detective novels, there are two or three clues, at most five or seven. He enumerates 200 of them and thinks about the relationship between them. Omitting any of them will result in insufficient clues.
+I once translated one of his works, but due to the limited number of papers, I had to cut it down by about a quarter. In a normal detective novel, it's easy to cut. In some cases, it may be more effective to throw away the humorous depictions and the places that deviate to the side roads and compress them. However, this is not the case with Van Dine. After all, he is a writer who believes that depictions that are not related to the main story of the story are prohibited in detective novels. Therefore, no matter where you cut it, you may lose clues to find the criminal, so it is weakened.
+All his works are "murder cases", and all of them are in the form of a diary recorded by Van Dine, who has the same pen name as the author, in chronological order. All detectives are in the form of friends of the author, Filo Vance [# "Filo Vance" is Mama]. Some of these aren't his originality, but the combination of these forms creates a nice and unique style.
+
+
+
+Bottom book: "Hatsunosuke Hirabayashi Detective Novel Selection 2 [#" 2 "is a Roman numeral, 1-13-22] [Theory Mystery Series 2]"
+Issued the first edition of the first edition on November 10, 2003
+First appearance: "Remodeling Vol. 12, No. 11"
+November 1930 (Showa 5) issue
+* The title "Van Dyne" and "Van Dyne" in the text are the same as the original.
+Input: Takashi Kawayama
+Proofreading: Hiroshi Kadota
+Created December 8, 2010
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

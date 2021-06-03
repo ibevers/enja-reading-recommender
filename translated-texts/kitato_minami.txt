@@ -1,0 +1,40 @@
+North and South
+Ango Sakaguchi
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Bikkuri Donkey
+
+｜: Symbol that identifies the beginning of a character string with ruby
+(Example) Echigo | Shibata
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) Deu / \ [# Emphasis mark on "Deu / \"]
+
+/ \: Double dance character (repeated symbol in the shape of a vertically lengthened "ku")
+(Example) Bata / \ and
+-------------------------------------------------- -----
+
+There is a book called "Nanki Fudo Magazine". (Written by Eiichi Nishise, published by Takemura Shobo, Tokyo) This is a reading that introduces the features of Nankishu from Kumano to Shingu and Kushimoto. A bat that flies while calling it a bat, is dropped to the ground with a rod, and it represents nostalgia by drawing a landscape with a lingering lingering sound and melancholy. When was the scene? This author seems to have traveled to Echigo | Shin-Hata, and describes the thoughts of bats that he saw in the snowy country in connection with this tropical landscape. Surrounding the fire at the fireside in a gloomy inn in the snowy country. It is said that one bat jumped from the darkness of the sooted ceiling with a fluttering sound of fluttering / \, but it was too dark compared to the bright bats of the southern country. It is said that it was a desperate bat sound.
+This is the difference between the north and the south, but from the perspective, there is a difference in light and darkness, but the sadness, the depth of sentiment, and the sadness of nostalgia are all in line. It's called Tei.
+I tend to have a deep sympathy for the nostalgia of Haruo Sato and Masuji Ibuse, but their hometown and nostalgia are in a bright and warm southern color that is different from that of mine. But I would also like to add the fact that I find tropicals in the majority of people who love my work, especially its nostalgic tones.
+Tamara Karsabina is a dancer born in Russia, but a few years ago she was surprised to discover the Russian sexuality of the Spanish painter Picasso in the "Recollection" serialized in the magazine Lebu Evd Madeel in France. It is written that. They worked together for many years at the usual "Rosiya Dance Company" in Diagilev. After all, it seems that the south and the north have the same intensity, even though there is a difference in the light and darkness of the climate.
+Goethe escapes from the gloomy climate of his hometown and runs a carriage to Itari in search of the sun, but in the depths of his soul, the sun is not in the foreign sky, but always behind the dark snowy sky of his hometown. It seems that I have lived there. Instead of escaping his hometown, he may have run the carriage with unavoidable power in search of the nostalgic Sumika [# "Sumika" as an emphasis mark].
+As in Picasso of Tamara Karsaviina, I often "often" find the same truth in my acquaintances, even though there are differences in the form of expression.
+Humans lose to the climate. It seems that the words of our reason and the words of our climate are just as strong. As long as our instincts relate to climate, our reason must also relate to nostalgia.
+
+
+
+Bottom book: "Ango Sakaguchi Complete Works 02" Chikuma Shobo
+April 20, 1999 (Heisei 11) First edition first edition issued
+Parent of the original: "Niigata Shimbun No. 2015 <Evening Edition>"
+January 14, 1937 (issued on 13th)
+First appearance: "Niigata Shimbun No. 2015 <Evening Edition>"
+January 14, 1937 (issued on 13th)
+Input: tatsuki
+Proofreading: Tadao Imai
+Created December 10, 2005
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

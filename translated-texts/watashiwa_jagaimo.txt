@@ -1,0 +1,43 @@
+Watashiha Jigaimo
+Kazuko Murayama
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Ten sentences << Tomon >>
+-------------------------------------------------- -----
+
+Watashiha Jigaimo,
+Jagaimoni Silk Hatsutoha
+Doudeska.
+
+Watashiha Jigaimo,
+Jagaimoni Chief Istetsuki
+Doudeska.
+
+Watashiha Jigaimo,
+Jagaimoni Yarn Nokatakake
+Doudeska.
+
+Watashiha Jigaimo,
+Jagaimoni Ten Sentence "Tomon" Nookutsuha
+Doudeska.
+
+Watashiha Jigaimo,
+Jagaimoga, Machiwo Aruitemo
+Iideska.
+
+
+
+Bottom book: "Japanese Children's Literature Daikei Vol. 26" Holp Shuppan
+First print issued on November 30, 1978 (Showa 53)
+Parent of the bottom book: "Kids no Tomo" Fujin no Tomosha
+April 1927 (Showa 2)
+First appearance: "Kids no Tomo" Fujin no Tomosha
+April 1927 (Showa 2)
+Input: Tomoko Kanno
+Calibration: noriko saito
+Created January 24, 2011
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

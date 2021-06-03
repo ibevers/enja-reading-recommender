@@ -1,0 +1,62 @@
+Paper fish spill
+Ritaro Kogure
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example)
+
+｜: Symbol that identifies the beginning of a character string with ruby
+(Example) Daejeon ｜ Ota Nanpo 《Shokusanjin》
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) [# Indent two characters from here]
+
+/ \: Double dance character (repeated symbol in the shape of a vertically lengthened "ku")
+(Example) All / \
+-------------------------------------------------- -----
+
+Daejeon | The following article is published in "Half-day Quiet Story" by Shokusanjin, entitled "Shinshu Asama Sengendake Strange Story".
+
+[# Indent two characters from here]
+Around September (12th year of culture), in the summer, when digging a peasant well of a hometown in Shinshu Asamagatake, you can dig a few deeper but no water, and you can dig a few roof tiles. Yuhe, if you dig it again as if there should be a roof tile in such a deep place, you can dig a roof. If you look at Yuhe, who is a human being, with Matsuaki, there are three people, Ariyuki, and Yoriyuki, who are about fifty years old. Although it is known, last year there was no residence in the Asama-yaki Setsudo storehouse, and all six of them couldn't collapse into the mountain. The two of us piled up in the brewery and drank 3,000 barrels of rice and 3,000 barrels of sake, and on top of that, we met each other today to meet each other. If you look at the number gradually, it will be 33 years, if you call the person in that section, it will be a long time, and who will be able to revive, directly appeal to the Daikansho, go up However, since I can live in the land for several years, if I go up directly, I will die in the wind, and gradually I will look at the heavens / \ and I can say that I will go up. The tip hole was enlarged to make it shine, and the food was placed in the right place.
+The last year, these two people had become a wealthy family, and when they heard about it, they were ignorant of the lieutenant, and they were ignorant of the private territory.
+[# End of indentation here]
+
+It is unlikely that there was such a scholar at the foot of Mt. Asama at the time of Tenmei, and it is unlikely that he lived in the ground for 33 years after drinking raw rice and drinking sake. It can't be said that there wasn't enough lava gap for one or two people to breathe, so it's very interesting because it seems to be a lie and a truth. However, the fact is probably that the story that was dug up in a private house was exaggerated when flowers bloomed and fruits were born. The following is a sentence from "Hikio-an Essay", which was about the 12th year of Kansei.
+
+[# Indent two characters from here]
+According to the story of a monk in the mountains of Nikko, the number of people on board the boat was unrelenting when he worshiped at the lake on a boat last year. Drowning in the lake, the corpse alone is undeclared. In addition, a certain person went to the mountain of Chuzenji, and a woman came to Yuhe. Originally, Chuzenji Temple came to a place where women are forbidden, so by all means put sandals on her head, and four crawl down Mt. The woman will be able to pay off the money consistently.
+[# End of indentation here]
+
+The water of Lake Chuzenji is famous because the corpse does not float due to its specific gravity or something, but the nature of the water seems to be the same at that time. How the woman had traveled over the mountains from Echigo would have been a painful mountain trip at the time when the missing people were noisy. It was ridiculous to put sandals on his head and crawl on all fours to chase down the mountain, probably because it was not humans who climbed the forbidden mountain.
+
+[# Indent two characters from here]
+Shimonoya Juemon is called a sword fittings, Oyamasan's sword fittings are put on the sword for about three and a half minutes, and the forty-five young people in the place are dressed in a yukata / \. The ratio and traces of the yukata shark scabbard, which I like, ride on the overlapping swords and open the left and right doors, and soon after I reach the entrance of Shinagawa-juku. A more summoned official came, dragged the yukata from the sword, hung a rope on a high-handed hand, and was immediately returned to prison. It's rare to be in prison for a while.
+[# End of indentation here]
+
+It is a section of "Oyama Sanno Tachi" in "Juhachi | Odori", which is the beginning of Koka Hinoe uma Haruyayo. It was a pity that Mr. Oshitate was born, and the difference between the old and the new is the same as the feeling of pushing the big and small flags up and pushing them up and pushing them out to the mountains.
+
+[# Indent two characters from here]
+Suruga Mt. Fuji and Sagami Oyama worshipers from here to Tokaido Kanagawa-juku by sea boat, Hatagoya and merchants' mutual subsidy, thinly difficult, from Shinagawa-juku Request sign. The ship boarding from the right side of the ship is the same for the Kanagawa-juku side of the ship, and the side traffic is the same. Both the boat owners on the banks of the local rivers, the right-handed swordsman, the swordsman, the swordsman, the swordsman, the swordsman, the swordsman, and the swordsman. The sign for boarding is a tight-fitting sill.
+[# End of indentation here]
+
+In the second year of culture, it was mentioned in the "Eternal Record of Selection" by the touch from the magistrate's office, which was handed over by Kitamura Masakata among the three elderly people in Edo Town. Those who visit Fuji and Oyama cannot easily go from Edo to Kanagawa by boat. It is similar to the sideways traffic of the law that has left the main road, and it is implicitly scared that if you do not know the left side, you will not necessarily suffer the disaster that flew. The traveler who was robbed of one vehicle after the whining of the sea route was picked up is the skin of the good side. It's also fun to see this compared to the fact that you may be inadvertently caught up in the promotion of a big child, Owarawa, to attract mountaineers, and you may get uncomfortable when you go out. Will.
+[# With ground] (Showa 8th, 10th "Japanese Alpine Club Bulletin")
+
+
+
+Bottom book: "Memories of the Mountains" Heibonsha Library, Heibonsha
+July 15, 1999 (Heisei 11) First edition 1st printing
+Parent of the bottom book: "Mountain Memories Vol. 2" Ryuseikaku
+Reprinted on August 20, 1941 (Showa 16)
+First appearance: "Japanese Alpine Club Bulletin"
+October 1933 (Showa 8)
+* The bottom book is a large scale of "ga" (ward number 5-86) used for counting things and place names.
+Input: Akiko Kurihara
+Calibration: Yukimori
+Created January 16, 2015
+Revised December 8, 2019
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (https://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

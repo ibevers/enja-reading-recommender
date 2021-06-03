@@ -1,0 +1,39 @@
+letter
+August 26, 3rd year of Keio, addressed to Takayuki Sasaki
+Ryoma Sakamoto
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Noh << (well) >>
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) Kei Ki [# Note to "Kido Takayoshi" in "Ki Kei"]
+
+[# ...]: Return point
+(Example) Honor [#re] wish
+-------------------------------------------------- -----
+
+Brief Message from the Heart.
+From today's Kei Ki [# Note to "Kido Takayoshi" in "Ki Kei"], I entered the page for a while. The same person is a person who is familiar with the affairs of the kingdom, and after he was strong for the first time, a woman and others are likely to be ill.
+The debate of your country is deeply rooted, and it is a wish and a statement.
+[# 2 indentation] August 6th [# with ground] Naoju
+
+[# 3 indentation] Dr. Sasaki [# with ground] Dragon worship
+[# 8 indentation] Left and right
+
+
+
+Bottom book: "Letter of Ryoma" Saichiro Miyaji, Kodansha Academic Bunko, Kodansha
+First print issued on December 10, 2003
+Issued the 7th edition on September 19, 2008
+* The caption of the photo of the bottom letter says (Tosa Tsutomu Shishi Ink Collection).
+* Words in parentheses were added when the original was edited.
+* I omitted the line breaks that match the wrapping of the handwritten letter.
+Input: Yanajin33
+Calibration: Hanren
+Created on August 26, 2010
+Revised June 17, 2011
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

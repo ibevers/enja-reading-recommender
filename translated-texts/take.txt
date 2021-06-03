@@ -1,0 +1,26 @@
+bamboo
+Sakutaro Hagiwara
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) [# 11 indentation] --New Year's Day, Taisho 4--
+-------------------------------------------------- -----
+
+Bamboo is a right angle,
+Roots grow from human neck,
+The roots are thin and wide,
+It's faint.
+[# 11 indentation] --New Year's Day, Taisho 4--
+
+
+
+Bottom book: "Sakutaro Hagiwara Complete Works, Third Section" Chikuma Shobo
+May 30, 1977 (Showa 52) First edition first edition issued
+December 10, 1986 (Showa 62), the first revised edition issued
+Input: kompass
+Proofreading: Shigeo Kobayashi
+Created June 25, 2011
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

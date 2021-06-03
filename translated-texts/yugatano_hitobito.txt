@@ -1,0 +1,132 @@
+People in the evening
+Yokichi Nishimura
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Window window << Show Wind >>
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Numbers are JIS X 0213 area area number or Unicode, base page and number of lines)
+(Example) * [# Roman numeral 1, 1-13-21]
+-------------------------------------------------- -----
+
+[# 5 indentation] [# middle heading] * [# Roman numerals 1, 1-13-21] [# end of middle heading]
+
+[# With line break from here, wrap and indent one character]
+My daughters,
+A couple of people in the evening town
+From the stern brick back gate
+Daughters being spit out,
+Put a face powder [# "Emphasis mark" on your face] neatly on your face.
+Wear the shrimp tea hakama with the correct creases,
+I have weather clogs in my white socks, but
+Inside the furoshiki wrap that you hold in your hand
+It's like a bento box, white office clothes, and sandals with a red hanao.
+While happily talking with friends about small talk and future dreams,
+How fun it was while I was in town,
+But if you go home,
+Many sisters and younger brothers,
+Dad's gatekeeper hasn't returned yet,
+Mother's internal work is scattered in the tatami room,
+Even the side with the desk of the small six tatami mats
+Messed up with children's toys.
+You will then feel how far the distance between fantasy and reality is,
+Kimono shop window "Show Wind",
+Booth shop window "Show Wind",
+You want that big yukata,
+I want a half-collar of lily sewing on celadon,
+But my daughters in the evening
+You are the temptation of a lascivious chief,
+You have to be afraid of the bad eyes of your superiors,
+Young girls in the evening who seem to be lonely.
+[# End of indentation here]
+
+[# 5 indentation] [# middle heading] * [# Roman numeral 2, 1-13-22] [# middle heading end]
+
+[# With line break from here, wrap and indent one character]
+You're wearing a rat-colored summer outfit,
+You put it on your shirt, deer
+But neither the color nor the tie suits you,
+You are wearing old clogs with bare feet.
+What a black face you have,
+What a dull face you have,
+It ’s very different from the red-faced factory owner who is fat with beer.
+You hurry back to your evening home,
+To the house where the mother and the newborn boy are waiting this spring.
+What a serious, serious, face that seems to endure any pain,
+That manly, but a little cloudy, messy face,
+And thick arms and strong hands,
+A fine type of Japanese worker that wasn't completed until just ten years ago,
+I just saw a Western strike in just one activity photo,
+But there were many serious faces like you.
+[# End of indentation here]
+
+[# 5 indentation] [# middle heading] * [# Roman numeral 3, 1-13-23] [# middle heading end]
+
+[# With line break from here, wrap and indent one character]
+Passing Tsukishima in the evening,
+From the city of Tokyo to the slums on the island
+From the second floor of a high factory to a small building split Nagaya
+The delivery of Daidenma, which is pulled by a steamship with the crest of Tokyo City,
+Mothers and daughters with hair that is tightly squeezed and crossed [# "Emphasis mark"]
+I laugh so much when something is wrong,
+What makes you laugh so much,
+Shabby yukata, slender belly band,
+Tanned face, reddish hair,
+I see, you are free from now until tomorrow morning,
+That makes you laugh so much,
+You can't make a joke while working,
+But now I'm free,
+You wanted to laugh, laugh, laugh,
+The young girl is also laughing at what is so interesting in one place,
+However, the blue-faced ginkgo [# "ginkgo" side point] return woman does not laugh.
+The grandmother who had her eyes [# "emphasis mark"] didn't laugh, either.
+It's a face that I've never laughed at.
+Steam burns coal more and more,
+I'm pulling the ship in the busy evening.
+[# End of indentation here]
+
+[# 5 indentation] [# middle heading] * [# Roman numeral 4, 1-13-24] [# middle heading end]
+
+[# With line break from here, wrap and indent one character]
+The factory whistle rang here and there,
+If it's a rose-colored summer evening,
+People who come from nowhere,
+There was a kid with a smirking face on it,
+Sora, there were three young female workers on board,
+Sora, the man of Hanten was on board,
+There was a man wearing a hakama,
+There was a dirty navy blue collar on it,
+There was an old man on it,
+A ferry of Denma that fills up quickly.
+If you look at it
+Everyone's washed-out yukata
+Clogs on bare feet,
+Or in a red summer hat, this is the only white shoes of summer mercy,
+The small furoshiki wrapping in my arm is, needless to say, an open box for lunch.
+The smell of sweat, the smell of hair,
+Although they work to grow heroically,
+What a tan on the face, thin cheeks, dull hair,
+It's so shabby,
+You're hungry both physically and mentally like this,
+If you think about it
+I think it's not so beautiful to be born.
+[# End of indentation here]
+[# Raise one character from the ground] (August 10, at Tsukuda Island)
+[# Indent 5 characters from here, indent and indent 6 characters]
+(Published in the September 1915 issue of "Life and Art")
+[# End of indentation here]
+
+
+
+Bottom book: "Japanese Proletarian Literature Collection 38 Proletarian Poetry Collection (1)" Shinnihon Shuppansha
+May 25, 1987 (Showa 62) First edition
+First appearance: "Life and art"
+September 1915 (Taisho 4) issue
+Input: Shinichi Sakamoto
+Calibration: Yukimori
+Created December 13, 2015
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

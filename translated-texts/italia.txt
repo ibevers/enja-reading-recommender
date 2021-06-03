@@ -1,0 +1,31 @@
+ITALIA
+August von Platen
+Translated by Bin Ueda
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) Abruzzo [# "Abruzzi" is italic]
+
+[]: Enclose the accent-decomposed European language
+(Example) [zo ^ ka]
+Please refer to the following URL for details on accent decomposition.
+http://www.aozora.gr.jp/accent_separation.html
+-------------------------------------------------- -----
+
+Konata ni wa Abruzzi [# "Abruzzi" is italic] no yama, kanata Pontini [# "Pontini" is italic] no numa,
+Geijutsu no kuni wo idete [zo ^ ka] rakuyen ni iru.
+
+
+
+Bottom book: "Bin Ueda Complete Translation Poems" Iwanami Bunko, Iwanami Shoten
+Issued the first print on December 16, 1962 (Showa 37)
+April 21, 2010 (Heisei 22) 38th edition revised edition issued
+First appearance: "Meisei Noonsai Ichi"
+January 1906 (Meiji 39)
+Input: Takashi Kawayama
+Proofreading: Kazuhiko Okamura
+Created January 10, 2013
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

@@ -1,0 +1,504 @@
+Quiet poetry
+Hajime Kawakami
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Apricot "Apricot"
+
+｜: Symbol that identifies the beginning of a character string with ruby
+(Example) Tomoeyama |
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Numbers are JIS X 0213 area area number, or original page and number of lines)
+(Example) * [# "Special Hen + Old", Level 4 2-80-21]
+
+[# ...]: Return point
+(Example) Book [# 2] Lee Senansho [# Les] Akikei [# 1]
+
+/ \: Double dance character (repeated symbol in the shape of a vertically lengthened "ku")
+(Example) Fura / \ and
+-------------------------------------------------- -----
+
+Looking at Haruo Sato's collection of car dust, he found that "Kyouka Ichikomura, Ryusui Kazumaya, Yuhito Mijin, * [#" Tokuhen + Ko ", Level 4 2-80-21] Beef barley inn "Ifu Gozen,
+
+[# Indent 3 characters from here]
+Apricot "Apricot" blooming lonely countryside
+Hiya Kawazoe here and there
+There was no human being in Japan
+There are cows sleeping in the wheat field
+[# End of indentation here]
+
+However, I wonder how about "here and there in the house". In the original poem, the house of Ifusuma must refer to a small house of three or four rooms. In the olden days, Tao Yuanming's poem entitled "Returning to Sonoda's Residence" says, "Protecting me and returning to Sonoda, Hoya Ten Ridge, Kusaya 89 Ma," is something that people are familiar with. Also, in Su Shi's poem, "Toho Kazumaya", or in Lu You's poem, "Fifty years of ritual, at the end, I should have longed for a enthusiast. "Ma" is the meaning of a room, and "Ma" is the meaning of a room. The Toho Kuma-ya and the Yu-Yu-Yu-ma all show the number of "Makazu". It's okay to understand that there is one small house in Kawazoe, even if it's an apricot flower Ichikomura Ryusui Kazumaya, but why is the car dust collection a few houses? Did you understand it? Experts may misunderstand this.
+"Everyone monk, Nishimura 89 family", this is a poem by Guo Shomasa, "Spring water 67 ri, sunset 34 family", this is a poem by Lu You. These are the ones that appear here and there in the house.
+
+○
+
+Looking at Meng Haoran's collection, there are only nineteen wujue left, but in the Tang poetry selection, two [# "two" and "[3]" notes] are taken. However, I like the poem "Dwelling in Jukushu" that I have left behind the most among the nineteen heads. It's a cloud.
+
+[# Indent 3 characters from here]
+Transfer boat night Smoke Nagisa: If you move the boat and stay at Smoke Nagisa,
+Higurashi Customer Shinshin: At nightfall, the customer Shinshin.
+Nozori Tenshoki: Nozori and the heavenly tree is low.
+Esei Tsukijin: Close to Ekiyo Tsukihito.
+[# End of indentation here]
+
+In Kosugi Misai's "Tang Poetry and Tang Poet", the phrase of this poem is read as "Stay in Smoke Nagisa [#" Stay "with a white circle emphasis mark]", and the conclusion is "Approaching Tsukihito [#]. "Approaching" is a white circle emphasis mark] ". However, I would like to continue reading "If you stay at Smoke Nagisa [#" If you stay ", a white circle emphasis mark]", and "Close to Tsukihito [#" Close "to a white circle emphasis mark]", read the moon. I want to keep it quiet.
+Naho Nobori Tenshoku is a view of the land from the boat, and the tree there is at the end of the open field, so it is far away from people. (If it's close, it doesn't mean that it's a cloud.) Next, the people near Jiang Qing Moon will see the view of the river from the boat. And although it was cloudy when I saw it in the daytime, it seems that Esei is now purified by the moonlight. The moon is, of course, tomorrow, and it feels as big as a basin and terribly close. I don't feel that the moon is approaching me, even though I feel the moon is near tomorrow. I read it as close to Tsukihito, and I don't want to read it when I get closer to Tsukihito.
+
+○
+
+There are seven poems by Meng Haoran that are listed in the Kara poetry selection, but the features that do not appear in any of them are visible in the complete works. It means that the same letter is overlaid in one poem. For example, there is the following in Gozen, entitled "Send a friend to Kyo."
+
+[# Indent 3 characters from here]
+Kimito Aoun left: You climbed Aoun and left,
+Yuzuru Aoyama Yuu Aoyama wants Aoyama and goes home.
+Unyama, Konobetsu, Unyama, different from this,
+Tear 薜 蘿 Cloth: Tears are moistened 薜 蘿 《Heira》 Cloth 《Koromo》.
+[# End of indentation here]
+
+Of the only two crosses, three of the same characters as Aoun Aoyama Unyama overlap, but the way they overlap is interesting. We do not feel any unnaturalness, but rather learn a special taste.
+See below for examples of double letters.
+[# Indent two characters from here]
+Asayu visit famous mountain [# "mountain" with white circle emphasis mark], mountain [# "mountain" with white circle emphasis mark] distant sky green. (Hirokayama Shonin)
+Yu Yu Kiyoemizu [# "water" with white circles], water [# "water" with white circles] Ochisha. (Islet during climbing)
+Mandarin duck * [# "Sanzui + Mandarin duck", 4th level 2-94-45 "] * [#" (Kai + Mandarin duck) / Bird ", 227-11] Mandarin duck [#" Shato "with white circle emphasis mark] , Sato [# "Sato" with white circle emphasis mark] Hioki Sa [# "Sa" with white circle emphasis mark] Isocho, Kinsa [# "Sa" with white circle emphasis mark] Mandarin duck. (Left of Kyuyue, the King of the Swordsman)
+Yakuhinrai Nishimura [# "village" with white circles], village [# "village" with white circles] Smoke Yunyu. (Aidoshi Yamanaka)
+Smoke wave Shinga heart [# white circle emphasis mark on "heart"], heart [# white circle emphasis mark on "heart"] Kayayama-dong. (Yado Yangkotsu)
+Yogo boarding boat return deer gate [# "Kamon" with white circle emphasis mark], Kamon [# "Kamon" with white circle emphasis mark] Gessho Kaiki. (Night return deer song)
+Yamako Intoxicated Pond [# "Pond" with white circles], Pond [# "Pond" with white circles] (Shuji Koyoike)
+Turned around Konakamaki Seima [# "Seima" with white circle emphasis marks], Seima [# "Seima" with white circle emphasis marks] (Same as above)
+傲吏 [# "吏" with white circle emphasis marks] Extraordinary [# "吏" with white circle emphasis marks], famous style [# "flow" with white circle emphasis marks] Immediate flow [# "flow" with white circle emphasis marks]. (Umedoshi Suitei)
+Where to leave the clothes, Takamakura Minami [# white circle emphasis mark on "south"] Yamanami [# white circle emphasis mark on "south"]. (Kyoto return gift Zhang Wei)
+River [# "Shiramaru Emphasis Mark"] Prefectural Willow Forest, River [# "River" Shiramaru Emphasis Mark] Bridge night boat. (Rin Nagisa Mingfu seat treatment 11 bunch 6)
+Han River [# "Emphasis mark" on the south side of the prefecture] style, Jiang [# Emphasis mark on the white circle on the "E"] 嶂 Kaisei South Yongzhou. (Toanyang Castle Tower)
+Heterogeneous [# white circle emphasis mark on "profane"] non-local [# white circle emphasis mark on "general"], New Year [# white circle emphasis mark on "year"] revised year [# white circle emphasis mark on "year"]. (Thistle)
+Sing Sing Takahama [# White circle emphasis mark on "Hata"] Mine Nozomi Hata [# White circle emphasis mark on "Hata"] River. (Etchu Sending, Minister Steward)
+[# End of indentation here]
+If you pick it up, it's just about this level, but since there are very few poems left, even this one is especially noticeable.
+
+○
+
+For example, Lee Taebaek's "one [#" one "with white circle emphasis mark] shoichi [#" one "with white circle emphasis mark] circumvention one [#" one "with white circle emphasis mark] cut, three [#" three " "White circle emphasis mark" Haruzo [# "Three" with white circle emphasis mark] Tsukigakusan [# "Three" with white circle emphasis mark] Tomoe ", Wang Rong's" nine [# "nine" with white circle emphasis mark] Moon nine [# "Nine" with white circles] Hibogodai, etc. [# "Others" with white circles] Seats, etc. [# "Others" with white circles] Township Cup "and" Late [# "Dead" with white circles] people Late [# "Dead" with white circles] Feast [# "Dead" with white circles] Feast, Phase [# "Phase" with white circles] Nozomi [# "Phase" with white circles] Mysterious [# Like "Seeing the white circles on the" phase "", "Watashi" [# "Watashi" on the white circles] Return water [# "Watashi" on the white circles], Nika [# "Naihana" "Shiromaru Emphasis Mark] Return Nika [#" Nika "to Shiromaru Emphasis Mark], Harukaze Ejoji, Unconscious Kimiya", Wang Anseki's "Water [#" Water "to Shiramaru Emphasis Mark] Nansui [#" Water " White circle emphasis mark] Kita Shigeshige [# White circle emphasis mark on "Shigeju"] Yanagi, Yama [# White circle emphasis mark on "Mountain"] Rear mountain [# White circle emphasis mark on "Mountain"] Mae-dokoro [# White circle emphasis mark on "Dokoro"] Ume , Immediately becoming a habitual thing, like "Senior Zhao this time", and the land release man's "No [#" No "with white circle emphasis mark] Hunger [#" No "with white circle emphasis mark] Cold all-rounder, Yes [ # "Yu" with white circle emphasis mark] Yamayu [# "Yes" with white circle emphasis mark] Mizukazu Ikki, Zhumon Fukandori Emphasis Mark, Self-love Kaya Ibaraki Sanryoma " In principle, it is said that the same characters should be repeated in one head with different phrases. However, there are not a few cases where the term can be demonstrated by superimposing the same characters.
+Meng Haoran's friend Nokyo, which is called Gozen, is one of the good examples, but the following Gozen, which is called Bounro of Bundou (Late Tang), is also included in each phrase. It is thought that the special taste is produced by overlapping the tower characters.
+
+[# Indent 3 characters from here]
+Toyama Rou [# "Rou" with a white circle emphasis mark] Noto: Toyama is east of the tower,
+Qinling Qinling [# "Rou" with a white circle emphasis mark] Nokita: Qinling is north of the tower.
+Rou [# White circle emphasis mark on "Rou"] At the time of winding the upper bamboo blind When winding the roof blind
+滿 樓 [# "Emphasis mark" with a white circle] One color of clouds: One color of clouds that fills the tower.
+[# End of indentation here]
+
+The following poem entitled Yoriko Minami deceased in the late Tang dynasty is also interesting in the superimposition of the same characters.
+
+[# Indent 3 characters from here]
+Somukai Tang [# "Shiromaru Emphasis Mark"] Dwelling, living towards Qian Tang,
+Magpie [# White circle emphasis mark on "蜀"] Township: Listen to the magpie and remember the township.
+Unknowing tonight's dream, unknowing tonight's dream,
+To [# "to" to white triangle emphasis mark] 蜀 [# "to" to white circle emphasis mark] to [# "to" to white triangle emphasis mark] Shu Han [# "to" to "white circle emphasis mark"] Will it reach Tang?
+[# End of indentation here]
+
+Qiantang is the current Qiantang River in Zhejiang Province, that is, Gangnam, and Shu is the northern part of what is now Sichuan Province. It's the same for the other side. The author now remembers that he is not in his hometown of Shu, nor is he in the palace where he lived, but rather in his friend's palace.
+Zhang Wenhime (Ayusangun wife) Keiguchi Unshi Niifu, Melting Valley [# White circle emphasis mark on "Kei"] Kuchiun, Shinmukai Naka [# White circle emphasis mark on "Keichu"] Vomiting, non-returning valley [# White circle emphasis mark in "Keichu"], Return work Keichu [# White circle emphasis mark in "Keichu"] Rain (clouds at the melting valley mouth, spit toward the valley. Instead, it is made with the rain in the returned valley.) It is said that this also got the strangeness of the heavy letters.
+In addition, Chungya's friend's poem Niifu, Yangtze River [# "Emphasis mark" with white circles] Head Yang [# "Yang" with white circles] Yanagiharu, Yang [# "Yang" with white circles] Jiang [# "Emphasis mark" with white circles] People, several voices Fufu Ritei evening, Kimimu [# "Muko" with white circles] Emphasis mark [# "Muko" with white circles] Hata. E-ji, Yang-ji, and Koji-ji * [# 2 character dots, 1-2-22] Overlapping and rejecting to form poetry.
+Bai Juyi's Meikoyanagi poem, the same again. Sangyo Yangyanan River South Bank [# White circle emphasis mark on "Konan Bank"], Ichibetsu Gangnam [# White circle emphasis mark on "Konan"] Both springs, Haruka Seisei Ao River Bank [# White circle emphasis mark on "Egishi"] How many people.
+Unlike the above example, the ones with the same letters intentionally overlapped are generally attached to the nose. Here are some examples.
+
+
+[# Indent 3 characters from here]
+Wang Jia
+
+Souyu [# White triangle emphasis mark on "Yu"] Song Mizuhama Miharu [# White circle emphasis mark on "Spring"] Choyu Souharu [# White circle emphasis mark on "Spring"] People [# White triangle on "People" Emphasis mark] Yu [# White triangle emphasis mark on "Yu"] Spring [# White circle emphasis mark on "Spring"] People [# White triangle emphasis mark on "People"] Naoshi Haru [# White circle emphasis mark on "Spring"] Deep Dissimilar spring [# "Spring" with white circle emphasis marks]
+(I remember playing on the beach of Kakusui in the olden days, and there are still people who are exploring spring in the spring, but there are ponds that are empty because there are no people playing in the spring. Immediately it reaches the depth of spring and does not resemble spring.)
+
+
+Old-fashioned Wang Jia
+
+Husband [# White circle emphasis mark on "husband"] 戍蕭 關 妾 [# White triangle emphasis mark on "concubine"] West wind concubine in Wu [# White triangle emphasis mark on "concubine"] Yuuo [# White circle on "husband" Emphasis mark] One line book Shin Chiyuki Tears cold arrival [# White circle emphasis mark on "To"] Kimibe Ito [# White circle emphasis mark on "To"] None
+[# End of indentation here]
+
+In the previous poem, the five characters of spring, Yu, and the two characters of the person are each * [# two character dots, 1-2-22] two, and in the latter poem, the concubine five [# "five" is "[three ] ”Note】, Husband, and Toru are each * [# 2 character dot, 1-2-22] 2 are duplicated, but it seems that a special taste will come out because of that. Absent.
+
+
+[# Indent 3 characters from here]
+Spring night Liu elephant
+
+Iku 處 [# White triangle emphasis mark on "處"] Hyogobakuji Kiboyama [# White circle emphasis mark on "Mountain"] Shinkiri Yozan [# White circle emphasis mark on "Mountain"] Unusual difficulty What 處 [# "處" White triangle emphasis mark] Hugging day day day [# White circle emphasis mark on "day day day"] Oblique sky
+(Somewhere blocking Hyogo Riki, remembering the mountain and being different from the mountain. In a difficult time, I show my pride somewhere, and I get drunk every day and go home.)
+
+
+Spring night Liu elephant
+
+Ichibetsu Toryo 歸 Early soul Dream contact Affinity Close-knit sleep [# "Sleep" with white triangle emphasis mark] and difficult sleep [# "Sleep" with white triangle emphasis mark] Night night night [# "Night night night" White circle emphasis mark] Fukamon Kouki
+(I haven't had a chance to go back to Toryo once, and I'm obsessed with my soul dream and come into contact with Affinity. It's hard to sleep even though I'm going to sleep soon, so I listen to Shiki at night. )
+
+
+Liu Elephant
+
+Uncombed Warbler View Kinjo Smoke Basket Mani Futae Akika Fukuro [# White triangle emphasis mark on "滿"] Kakuhanahiro [# White triangle emphasis mark on "滿"] Tree tree [# "Tree tree" White circle emphasis mark] Kozue 啼 曉 鶯
+(If you look at Kinjo with a column without combing, the smoke is quite a lot of Futae Akira with Mani. The flowers are full of trees, and the trees are full of trees.)
+[# End of indentation here]
+
+I don't like any of the above three necks. Especially the second head is very disgusting. I don't like the following ones below the autumn cliff.
+
+
+[# Indent 3 characters from here]
+Plum blossoms
+
+Ariume [# White triangle emphasis mark on "Ume"] No snow [# White circle emphasis mark on "Snow"] Unspirited Snow [# White circle emphasis mark on "Snow"] No poem [# White triangle emphasis mark on "Poetry"] Hitotsugure poetry [# white triangle emphasis mark on "poetry"] Naruten Matayuki [# white circle emphasis mark on "snow"] Youme [# white triangle emphasis mark on "ume"] Each of the four characters with and without * [# two-emphasis mark, 1-2-22] two)
+(Plums are not spiritual, and snow is not poetry. People are profane. Dusk poetry pretends to be snowy, and together with plums, makes enough spring.)
+
+
+Outdoors Cai Bushi
+
+Pine [# "Pine" with white circle side point] Urayantei Matsu [# "Pine" with white circle side point] Sakumon Nursing Pine [# "Pine" with white circle side point] Shimozamatsu [# "Pine" with white circle side point] Neka Kitamatsu [# "Pine" with white circles] Yin sleepy pine [# "Pine" with white circles] Speaking dream soul (Matsuji 6)
+(The pavilion is made on the back of the pine tree, and the pine tree is used as the gate. Pine.)
+
+
+Auspicious tanhua Cai-kun
+
+Flower [# "Flower" with white circle emphasis mark] Not yet [# "Not" with white triangle emphasis mark] Fully open month [# "Moon" with white circle emphasis mark] Not yet [# "Not" with white triangle emphasis mark] White circle emphasis mark] Machizuki [# White circle emphasis mark on "Moon"] Akechi Kazuki [# White circle emphasis mark on "Kagetsu"] Ruthless [# White triangle emphasis mark on "Emotion"] Monowaka messenger Emphasis mark [# "Emphasis mark" White triangle emphasis mark] Karen (two characters of flower and moon are each * [# two-character dot, 1-2-22] three, not yet, two characters of emotion are each * [# two-character dot, 1 -2-22] 2)
+(The flowers haven't fully opened yet, and the moon is still in a circle, and I'm still thinking of looking at the flowers and waiting for the moon. Kagetsu, which I know clearly, is a ruthless thing, but if it's sympathetic, it's even more cute.)
+
+
+凭 燭 臭 臭 臭
+
+How many times in the middle of the night [# White circle emphasis mark in "Night midnight depth"] Emphasis mark in the sky [# White triangle emphasis mark in "Nyoima Nyoima"]滿 [# White triangle emphasis mark on "滿"] Hayashi (Night, Fuka, Nyo, Now, 滿's five characters each * [# Two-character dot, 1-2-22] doubled)
+(Several times, I leaned back in the column to reduce the depth of the night, and when I stood deep in the night, the emotions were not as good as it is now, and if I stood still in the dry air, the moon would fill the empty floors and the frost would fill the forest.)
+[# End of indentation here]
+
+Every poem is profane, and it is not as good as poetry.
+
+[# Indent 3 characters from here]
+Karan Kigami Iku [# "Iku" with Shiromaru Emphasis Mark] Sekimatsu Minami Tohoku Nishi Yui [# "Iku" with Shiromaru Emphasis Mark] Mine Buyer Ima Iku [# "Iku" with Shiromaru Emphasis Mark]
+(There are several pine trees on the Karankei, some peaks in the south, northeast, and west.
+[# End of indentation here]
+
+This is Wang Anshi's poem, which is mysteriously inconspicuous because it uses many characters three times.
+
+○
+
+An example of an irresponsible Chinese poetry translation. Chinese translation Taisei, Su Shi poetry collection, Vol. 4, pp. 308-9, commentator, Shakiyotan.
+
+[# Indent 3 characters from here]
+"Book [# 2] Lee Senansho [# Les] Akikei [# 1]
+
+Nomizu's drop mark: Nomizu's drop mark,
+Woodland * [# "Odd + branch", 4th level 2-13-65] Fallen frost roots * [# "Odd + branch", 4th level 2-13-65] Defeat and frost roots,
+Ichifune Ichikaku What 處 ‥ Ichifune Ichikaku Where do you go back?
+House in Gangnam Yellow Leaves The house is located in Gangnam Yellow Leaves
+[Poetry] Nomizu is the north, south, east, and west, and there are many scars on it, and the sparse forest above it is * [# "odd + branch", 4th level 2-13-65]. The frost roots are exposed, and Hakufune does not know what to return to, and the boat is moving in that direction.
+[Letters] (1) Asymmetric appearance, participation in poetry * [# "Kusakanmuri / line", 3rd level 1-90-82] There is a vegetable, (2) There is a book to make in one paddle, "
+[# End of indentation here]
+This is a better person in the volume, but since it is a famous poem, I first copied it to a sample. The text written as a poetic intention probably fails as an answer for junior high school students. Aside from the goodness of the text, what does "paddle mark" mean, what does it mean to "have a paddle mark", "Woodland is * [#" odd + support ", 4th level 2- 13-65] What does it mean to "make a fallen form" and what does "a boatman paddle" mean? If you can understand such Japanese sentences, you don't need any national translation. There was also an unfriendly comment.
+Because it is troublesome to copy long poems, let's look at a few samples of only the words.
+
+[# Indent 3 characters from here]
+"Yo [# 2] Wang Lang [# 1] Night drink [# 2] Imizu [# 1]
+
+Wuxing June water spring temperature Wuxing June water spring temperature,
+Thousands of mosquitoes * [# "鬥 <((U / 亞 lower half) + loaf)", 3rd level 1-94-31] Mosquitoes Thousands of 菰 蒲 * [# "鬥 <((U /) / Lower half of the rabbit) + loaf) ", Level 3 1-94-31] Bulrushing mosquitoes,
+Konoi Noh Fukaichijo Konoi alone is able to be deep and deep.
+Genryu Nyoga Yakuza, like Genryu, like Yakuza,
+[Poetry] Wuxing's June is a warm spring, with a thousand buds * [# "Dragon <((Rabbit / lower half of the dragon) + loaf)", Level 3 1-94-31] Mosquitoes Gather, this well is a lonely one, like Genryuga, like a catty, "
+[# End of indentation here]
+I wonder if I intend to understand the meaning of this poem with just this explanation. I wonder if the author himself could understand this poem in the first place. --Not enough.
+
+[# Indent 3 characters from here]
+"Nando Goshu (No. 5)"
+Sweeping incense closed sleep, sweeping the ground, burning incense, closing the cabinet, sleeping
+Smoke, Smoke, Smoke, Smoke, Smoke, Smoke, Smoke, Smoke, Smoke
+Customer dreams, dreams, wherever customers come and know their dreams,
+Amagake Nishigane Namiten: If you wake up, you will be in contact with Nishimado Namiten.
+[Poetry] Sweeping the ground, burning incense, closing the cabinet and sleeping, the window crest is like cold water, the booklet is like smoke, listening to the voice of the guest, waking up from the dream, where is the guest? After all, if you wake up, the waves will come into contact with the heavens outside the west window.
+[Letters] (1) Inmon Crest, a tool to lay down on a summer day, (2) Book Nyo Smoke, Taishiro no Uta, Ao Sayo [# Re] Smoke Separation [# Re] Window Words, Lee Yoshiyama's Poem, Water Crest Smoke [# 2] Fang [# 1], "
+[# End of indentation here]
+Although he was a well-known Chinese poet, it seems strange that he wrote such things without hesitation.
+
+○
+
+Making Chinese poetry into Japanese is a simple matter, and in fact it depends on the reader's degree of understanding of the immediate poem and the person's insensitivity to Japanese writing, and naturally the same poem. However, the reading is different depending on the person.
+I think that the Chinese poetry made by the Japanese should emphasize the tone when reading it in Japan. I have various orders about how to read Japanese style. Next, let's talk a little about what you can think of.
+In the Tang poetry selection (Iwanami Bunko book) translated by Matashiro Urushiyama, Li Bai's Echinaka nostalgia is read as follows.
+
+[# Indent 3 characters from here]
+Goujian Goujian Goujian Goujian Goujian
+Nishikigi, the return family of the Yoshishi, is the Nishikigi who returns to the Yoshishi family [# "Nari" with a white circle emphasis mark].
+Gungnyeo Nyohana Koharuden [# "Ha" with white circles] Spring like a flower "Haru" with "Den" [# "Full" with white circles]
+The flight of the Chinese francolin, the flight of the Chinese francolin.
+[# End of indentation here]
+
+I don't agree with how to cut the punctuation, and above all, I think the overall condition is terrible. "Nari Nishiki, who returns to the Yoshishi family [#" Nari "with a white circle emphasis mark]," I don't like this sentence. "The palace is [#" ha "with a white circle emphasis mark] like a flower," why, instead of reading "the righteous man" in the previous phrase, only this phrase was read as "the palace". You shouldn't read "Nari Nishiki" or "Full of spring hall" now. In addition, it is a mistake to fill up the spring "Haru" and "Den". Spring here is an adjective for the palace, as in the case where the essay says, "Spring clothes are already made in the spring." Since it is not connected to Harumanden, there is absolutely no need to read Manten no Yu as "full of Haruden". I don't like the tone of "the only thing that the Chinese francolin flies [#" only "with the white circle emphasis mark]". I read the whole poem as follows.
+
+[# Indent 3 characters from here]
+Goujian, defeating Wu and returning,
+Nishiki, who returns to the Yoshishi family
+Whether it's full of spring hall "Shunden" like a palace flower,
+There is a flight of the Chinese francolin, which is just now.
+[# End of indentation here]
+
+In Hidekichi Hirano's complete explanation of Kara poetry selection and Michiaki Kanno's detailed explanation of Kara poetry selection, the second phrase is read as "I will return to the righteous family and do my best", but this is different from the usual case, and breathing is second. Since the phrase continues from the phrase to the third phrase at a stretch, avoiding the unpleasant illness of brocade or brocade, just stop with the brocade and the noun, and further the third phrase "Is it full of spring hall?" It should be read in the past form, and the past form should also have a second phrase, and only then will the meaning of the whole poem become easier to understand as a Japanese sentence, and the tone will be rather favorable. It is.
+
+○
+
+The poem entitled Li Shangyin's Night Rain Yorikita, also in the Tang Poetry Selection, is read in the Iwanami Bunko book as follows, but I cannot accept this reading.
+
+[# Indent 3 characters from here]
+Unexpected period of your questioning period: Asking you about your return date to [# "ni" with white circle emphasis marks] [# "question Funi" with white circle emphasis marks]
+Tomoeyama night rain Akiike pond.
+What's the west * [# "Kata + scissors making", 3rd level 1-87-68] Candlepower "When" both west * [# "Kata + scissors making", 3rd level 1 -87-68] candles
+卻 Talk Toyama night rain: On the contrary, should we talk about the time of Toyama night rain [# "ka" with white circle emphasis marks].
+
+[# End of indentation here]
+I read this poem when I was in the undecided prison, and I felt it was a really good poem. However, I didn't read the phrase "to you [#" ni "with white circle emphasis marks]" and "#" question "with white circle emphasis marks]", but "you [#" ha "to White circle emphasis mark] Read the return period as a question [# "question hedomo" with a white circle emphasis mark] ". The paperback book notes that "North means those who are in the north, and you are those who are in the north." I understand that you are Hosono. The north must point to Chang'an. At that time, the author went to the land of Basho, and Hosono was away from Chang'an, and he sent a letter from him asking when he would return, waiting for his husband to return. On the other hand, he said, "You haven't had a period to ask your return date," so if you read it as "You haven't had a period to ask your return date," it's completely useless. The original text is also a question, not as a questioner, so there is no need to forcefully read it.
+"You haven't asked for your return date yet." I read this phrase as an undecided superintendent, and I thought that I would really get into it. The fact that there is no period yet is really deep.
+By the way, when I saw the letter from Hosono and felt the swelling, it was just an autumn night and it was raining. * If you open [# "Kata + Sou no Tsukuri", Level 3 1-87-68], Tomoeyama will be hidden in the rain, and the pond in front of the eaves will be flooded with water. The author felt that the feeling of this time was truly unforgettable for this scene. So, what kind of scissors west * [# "Kata + Sou no Tsukuri", 3rd level 1-87-68] Candlepower story Tomoeyama I wrote that it was raining at night, and it is only by understanding these phrases that these phrases really become. It comes to life. I rejected this by "scissors" the candles of "what" when "to this" Masa "together in the west * [#" piece + making of rain ", 3rd level 1-87-68]. He should talk about the time of the night rain in Toyama. " (In Chen Nobu Jie's "Lu You Poetry Note", he added the poem "What Tode Kiyoshi Poetry, Chiko Sequel" to "What To, What Tokiya, Li Shangyin Poetry, What To Kyosha Nishimado". It is written as "candle". If you follow it, you will read what it is someday.) In the paperback book, read "Should I talk about the time of the night rain in Toyama [#" ka "with a white circle side point]" Moreover, since sometime [# "ka" is followed by a white circle], the "ka" in "Should I talk [#" ka "is a white circle]" is a snake. Yes, this snake foot makes me sick. In the Kanno Domei book, this is west * [# "Kata + Sou no Tsukuri", 3rd level 1-87-68]. "Wa" should be read as "#" Time should be "with a white circle side point]", and "If you talk to Bomoto about the time of Toyama night rain, it is not good to read it. , I put it above and below the two phrases, "but I don't want to obey him. On an autumn night when it rains and rains, I picked up a letter from Hosono and talked to Tomoeyama at that time [# the white circle emphasis mark at that time], holding hands and discussing it with each other. I was impressed with what time it would be possible to do it, so I dared to talk about the time of the night rain at Toyama [# the white circle emphasis mark at the time]. I want to read "should".
+The word "together" means holding hands with Hosono. Both of them are west * [# "Kata + Sou no Tsukuri", 3rd level 1-87-68], and the words such as "scissors" show a very close relationship, and I don't think they pointed to someone else. I can't. The phrase "rejection" means that while returning to Chang'an, the heart is far away and the land of the 蜀 蜀. None of them were just placed for the sake of tone.
+The four characters of Naho Tomoeyama Yasume have the same characters superimposed on the second and fourth phrases, but this is an inevitable duplication, and due to this duplication, the current scene will be revisited in the future. It is suggested that the author thinks that, and from the beginning, the author at that time also shook the candle to the west * [# "Kata + Sono Tsukuri", Level 3 1-87-68]. It can be imagined that this poem was given.
+By interpreting as above, I still think that this poem is a rare and good phrase.
+Kosugi Misai's "Tang Poetry and Tang Poet" recorded the four poems of Li Shangyin, but did not finally adopt this poem.
+
+○
+
+When reading Chinese poetry in Japanese, the injustice of okurigana often becomes a matter of life and death. For example, in the Iwanami Bunko book of the Kara poetry selection, the poem of Cen Shen,
+
+[# Indent 3 characters from here]
+Chang'an Manri, East, leaving Chang'an in the east
+The deceased Nasou Ichigosho: A one-line book of the deceased Nasouman [# "Sorrow" with white circle emphasis marks].
+Tamakansai Nozomi Intestinal Full Moon: Tamakansai If you wish, you will be able to enjoy the intestines.
+Situation recovery Ming dynasty age exemption.
+[# End of indentation here]
+
+However, the second phrase of this poem is not "deceased Nazo regret [#" regret "with white circle emphasis mark]", but "deceased Nazo regret ya [#" regret "with white circle emphasis mark]". Is. Just reading "regret" as "regret" makes the whole meaning completely useless here. This poem by Cen Shen is entitled "Let's go to Lee's book in Chang'an at Tamaki", and the deceased in the poem is Lee's book, and a letter came from this friend. Because he didn't have it, he complained, "I'll miss even the book of the deceased Nazo."
+The second phrase of Jueju is called Jueju, and it is the one that accepted the phrase. Therefore, when reading Jueju in Japanese, in many cases, the first phrase should not be read completely. Is good. For example, Meng Haoran's poem mentioned earlier,
+
+[# Indent 3 characters from here]
+Transfer boat night Smoke Nagisa: If you move the boat and stay at Smoke [# "If you stay", a white circle emphasis mark],
+Higurashi Customer Shinshin: At nightfall, the customer Shinshin.
+Nozori Tenshoki: Nozori and the heavenly tree is low.
+Esei Tsukijin: Close to Ekiyo Tsukihito.
+[# End of indentation here]
+
+Even so, as I have already written, in Kosugi Misai's "Tang Poetry and Tang Poet", the phrase is read as "Move the boat and stay at Smoke Nagisa [#" Stay "with a white circle emphasis mark]". It's hard to say, but I think it's better to continue reading to the next phrase, "If you stay at Nagisa [#" Seba "with a white circle emphasis mark]".
+
+[# Indent 3 characters from here]
+Move the boat and stay at Nagisa
+New nightfall
+[# End of indentation here]
+
+That's right
+
+[# Indent 3 characters from here]
+If you move the boat and stay at Nagisa
+New nightfall
+[# End of indentation here]
+
+That's a little bit, but I think it feels very different.
+Meng Haoran's poem, which was also mentioned earlier,
+
+[# Indent 3 characters from here]
+Kimito Aoun Departure: You climbed Aoun and left [# "Leave" with a white circle emphasis mark],
+Yuzuru Aoyama Yuu Aoyama wants Aoyama and goes home.
+Unyama, Konobetsu, Unyama, different from this,
+Tear 薜 蘿 Cloth: Tears are moistened 薜 蘿 《Heira》 Cloth 《Koromo》.
+[# End of indentation here]
+
+In particular, in this case, the two phrases are paired with each other, so by all means, "You climb up the blue cloud and leave [#" leave "with a white circle emphasis mark]" and continue reading next. I want to. In general, no matter where the two-phrase kinematic pair is placed, (in the literary poem, the third and fourth phrases, the fifth and sixth phrases are always paired. But even if you say so, it's usually better to keep reading the two phrases.
+Let me give you another example of the same thing. Looking at the Li Bai poetry selection of the Iwanami Bunko book, which is reviewed by Koda Rohan, the fifth of the five heads of Yuejoji is
+
+[# Indent 3 characters from here]
+Kagamiko Mizukisaragi, Kagamiko, Suigetsu-like [# "Nyo" with white circle emphasis marks],
+Yuki Onna Nyoyuki, like Yakei, Onna Yuki.
+Shinsho Shinnami Shinsho, Shinnami Saku,
+Sight eccentricity Sight, spectacle, both eccentric.
+[# End of indentation here]
+
+I read that. However, even in this case, the first phrase is "like the moon [#" like "with a white circle emphasis mark]", and we want to continue breathing until the second phrase. I wrote the whole poem, "The water of Kagamiko is like the moon [#" like "with a white circle emphasis mark], and the woman of Yakei is like snow. Shinsho Shinnami screams [# "smiles" with white circles], and the sights are both strange. Read.
+As you can see from the example in this Koshijoji, if you continue to read the first and second phrases, the same relationship will often occur again. It exists between the fourth phrase. To give an example, the poem of Li Bai's famous Departing from Baidi Castle can be found in the Iwanami Bunko book.
+
+[# Indent 3 characters from here]
+Asatsu Hakutei Saiunma, Ayakumo who resigns from the White Emperor in the morning
+Senri Jiangling One Day Return: Senri Jiangling One Day Return.
+Ryogishi monkey voice non-living: Both banks monkey voices do not live [# "do not live" with white circle emphasis marks],
+Mt. Manju, Mt. Manju, a mountain of Mt.
+[# End of indentation here]
+
+However, in this case as well, the third phrase is still read as "Monkeys on both banks screaming and living" [# "Marazunani" with white circle emphasis marks] "and breathing. I want to continue until the end.
+Here are just two more examples that apply to the above.
+
+
+[# Indent 3 characters from here]
+Fast-moving Ryuko * [# "Making a sword / army", 3rd level 1-90-33]
+
+Muratami Report Akira: Report Akira to Muratori [# "report" with a white circle emphasis mark],
+Akatsuki is gradually colorless.
+Leaving on a pilgrim horse [# "Leave" with a white circle emphasis mark],
+Auction lanterns illuminate the remaining lanterns station.
+
+
+Sima Guang
+
+Dream 覺 prosperity extinction: Dream awakening extinction of prosperity [# "extinction" with white circle emphasis mark],
+Hikaru Hayashi: It comes through the Hikaru Hayashi.
+Opening the surprised crow bird If you open the gate and surprise the crow bird [# "surprise" with a white circle emphasis mark],
+Drops of blue moss: It doesn't fall into extra drops of blue moss.
+[# End of indentation here]
+○
+
+Continuation of cautions regarding reading Chinese poetry in Japanese.
+When reading Chinese poetry in Japanese, the past form of the verb is sometimes absolutely necessary. For example, in the Iwanami Bunko book, Zhao * [# "Old + (Leisure-Day)", 241-12] in the Tang Poetry selection
+
+[# Indent 3 characters from here]
+Going up to the river alone, thinking about it
+Moonlight Nyosui Renten: Connects to the water like moonlight water.
+The same person, Tsukihito, who came in the same way and shook the moon [# "Human" with a white circle emphasis mark].
+Scenery Yuki similar last year Similar to last year as landscape Yuki.
+[# End of indentation here]
+
+However, if you don't read "Shinbu [#" Bu "with white circle emphasis marks]" as "Shinbi [#" Bishi "with white circle emphasis marks]", the conclusion will not work.
+In some cases, it is also necessary to use guessing auxiliary verbs. For example, in the Iwanami Bunko book, Li Yi's * [# "Sanzui + Bian", Level 3 1-86-52] Kawano, also in the Tang Poetry Selection,
+
+[# Indent 3 characters from here]
+* [# "Sanzui + Bian", 3rd level 1-86-52] Suito-ryu Mugen Spring * [# "Sanzui + Bian", 3rd level 1-86-52] Suito-ryu endless spring,
+Sui family palace palace dust. It becomes dust in the palace palace of the Sui dynasty.
+Nozomi Nagatsumi, a pilgrim
+Kazeki Yangka murder: Kazeki [# "re" with white circle emphasis marks] If Yangka people are murdered [# "su" with white circle emphasis marks].
+[# End of indentation here]
+
+However, the conclusion is that I want you to read "Kazeki et al. [#" Ra "with white circle emphasis marks] and Yang Hanjin [#" Sen "with white circle emphasis marks marks]".
+There are endless examples of this, but here I will list only one Lu You's lyrics (this is not a poem, but a so-called loose poem). This one head contains phrases that should use guessing auxiliary verbs and past verbs before and after.
+
+[# Indent 3 characters from here]
+Koin squirrel sleepy spring greed, Koin silk moth sleeps and spring old
+New nest swallow milk flower sweeping: New nest swallow milk and flower sweeping.
+Yume Kinjo Nishi, west of Kinjo, dreaming in the dark
+Malus halliana time: It's not like the old time of Malus halliana [# "like" and a white circle emphasis mark].
+Tonen Makusou, the true grass of the year,
+Ichigo Kure Haya: As soon as I return to Ichigo Kure,
+The title of the poem of Reiharu, if you recite the poem of Reiharu,
+Mirrored 鬢 颢 絲 Mirrored 鬢 Itozoe Hinishika [# "Soe Hinishika" with white circle emphasis marks].
+[# End of indentation here]
+
+On the right, I read it for a trial, but since this verb is a tribute to the thoughts of the time when the author was in Kinjo (Chengdu), the fourth phrase is "like the old days of the emphasis marks. Do not read "#" like "with white circle emphasis marks"], but be sure to use the auxiliary verb "like the old days [#" like "like" with white circle emphasis marks marks] ", and the conclusion is" mirror ". It must be in the past as "Auxiliary verbs with white circles on" # "Auxiliary verbs" instead of "Emphasis marks with white circles on" Auxiliary verbs "."
+
+○
+
+It is good to read Chinese poetry, but there is often a theory that it is a complete story to make a Chinese poem by yourself by trying hard to imitate the Chinese people. (I remember now, one day, Konosuke Hinatsu [# Note on "[suke]" in "suke"] wrote such a thing, and also in Kosugi Misai's "Tang Poetry and Tang Poet". That's what it says.) But I generally disagree. In fact, I myself have been imitating Chinese poetry these days by examining the tone and rhyming. I don't necessarily think it's ridiculous.
+Why do you imitate Chinese poetry? (Imitation is not humble, its meaning is gradually stated.)
+The reason above all is that kanji and Chinese writing may be the most suitable for expressing one's thoughts and feelings. However, if that's all, it's okay to mix kana, but if you mix kana, it's not very interesting to see with your eyes. So, if you want to emphasize the use of kanji anyway, there is a request that you want to see only kanji without mixing kana, and if you want to see only kanji anyway, let's look at the form of Chinese poetry that Chinese people tried. That is to say.
+However, even if we take the form of Chinese poetry, we do not read it as a stick, but read it in the Japanese style, so we comply with various poetry rules developed in China due to temperament. do not have to. That is the characteristic of Chinese poetry made by the Japanese in order to read it in Japan as Japanese poetry.
+Originally, the pronunciation of kanji has changed considerably in China for thousands of years, so even in modern Chinese people, for example, the author of the Tang dynasty intended to have people read it. I don't read Tang poetry with a naive pronunciation. (Actually, the Tang poetry was divided into 206 parts, but the Song rhyme was only 106 parts. Therefore, it should be inferred that there is a remarkable change in pronunciation.) Chinese Because it is so, modern Japanese people have to investigate the tone, rhyme and other things of Tang poetry in detail and try to make something as close to Tang poetry as possible, and if they want to make Chinese poetry, they have to make Tang poetry. It cannot be considered that it is so meaningful except as a kind of nostalgic hobby (although it seems that people like Kainan Mori adhered to the rhyme) to struggle with the wind. ..
+For example, it is unavoidable to follow the rules of tone, rhyme, and even number, which are written in ordinary introductory books. But going further, for example, when it comes to the last letter of a non-rhyming phrase, I wasn't satisfied with just making it a tones, and in the first tones it was a checkered letter. In the second 聯, you should use the upper voice or the rhyme character other than the incoming voice, and in the third 聯, if you use the upper voice character in the second 聯, you should definitely use the rhyme character. Today, I went into the place where I had to use the four tones in detail, and the various pains that the poet of the Tang dynasty had spent on the rhyme were taken away. Aside from special experts, Japanese, who are completely different languages, scrutinize each and every one of them and try to reproduce them as much as possible on the poems they make. For ordinary people, it is a completely meaningless effort.
+On the contrary, in some cases, it is okay to ignore the rules of tone that everyone who makes Chinese poetry has been concerned about. That is the knowledge of Chinese poetry made by the Japanese in the Showa era. I think in a cute way.
+For example, in the special theme of Saigo Nanshu,
+
+[# Indent 3 characters from here]
+I've been working on spicy acid several times, and I've been working on it for a while.
+Durable swordsman [# "Shinzen" with white circle emphasis marks] Durable smashing, swordsman 《Senzen》.
+Wagaya Remains Corporation Knowledge: As soon as we know the law of our family,
+Unscrupulous grandchildren buying Mita: You should buy Mita for your grandchildren.
+[# End of indentation here]
+
+There is a saying that I wanted to make the tiles complete, but I avoided the tiles of the syllabary because of the tone pattern, but if the Japanese wrote it with the intention of having the Japanese read it, here etc. It is better to break the rules of Tone and use the tiles that are familiar to our ears, and there is a word for smashing the tiles, but there should be no such word as 甎 膳.
+Similarly, in Nanshu's accidental seven extinctions,
+
+[# Indent 3 characters from here]
+Daesung Sake Zatakaro: Calling out loud sake and sitting in the high-rise building
+Goki 將 呇 Five Great States: Five great states that are swallowed by a courageous general.
+1 inch Tanshin 3 shaku sword, 1 inch Tanshin, 3 shaku sword,
+Volunteer [# "Shiramaru Emphasis Mark"] Preliminary Neikan Head: The head of the pre-trial Neikan who tries first by voluntarily wielding a sword.
+[# End of indentation here]
+
+On the other hand, there is a Chinese poet who criticizes that the sword of the concluding remark is not suitable for the sword, so instead of the sword of the sword, a sword of the sword should be used. , I am very dissatisfied. When reading this in Japan, there is a force of words because the sword continues, saying, "One inch of a three-shaku sword, sword." Even if you ignore that point, this is a sword character. If you twist it repeatedly, it will not be a poem. It doesn't have to be a problem, whether it's fair or not. I think about it.
+By the way, if you say such a thing, some people may say that it is okay not to make it a problem from the beginning, but that is fine. However, if you put the tone together, even if the Chinese read it as a stick, it will be a little better than if the tone is not matched, so originally read it to the Chinese. Even if it's not about getting things, it's better not to ignore the rules of tone. I think about it.
+Originally, kanji are hieroglyphs, which are completely different in character from Roman letters and Japanese kana, and require that the shape of the letters be seen with the eyes, in addition to transmitting the sound to the ears. It is a hieroglyph. In many cases, the characters such as day, moon, mountain, and river are half-pictured, and sadness, sadness, tears, and 泪 have meanings in their bias. So, regardless of how Japanese people insulate from this kanji, as long as they are used as daily characters, they will not be insensitive due to the special taste and beauty of the kanji when written on paper. Therefore, for poems that respect subtle sensations and beauty, there is no choice but to request that only kanji be viewed side by side without mixing kana. (The Japanese text, which is a mixture of hieroglyphs, musical notes, and characters with completely different personalities, is very messy to the eye. .) Half of the Japanese demand for Chinese poetry comes from there.
+I think about it as above, so if a professional Chinese poetry sees it, it's as if the rules aren't in the poetry. I'm calmly making something that is criticized as being terribly poor, but at the same time, on the other hand, in terms of reading and tone when making this a Japanese reading (this is a Chinese person). I don't know at all.) It puts a lot of weight on it.
+It looks like Chinese poetry, it is made up of only kanji, but its pronunciation and how to read it are completely Japanese reading. Kauifu is a Japanese Chinese poem that is made by the Japanese, can be made by the Japanese, and is meaningful to the Japanese. It is not a foreign poem, like the English poem written by Yone Noguchi. It is not a Chinese poem, but a Japanese poem that belongs to the same category as Japanese poetry and haiku. Everything must be standardized, and by standardizing it, it is meaningful for the Japanese in the Showa era to write Chinese poetry for the first time.
+The above is my view. I've never seen anyone say this. However, I am quite confident in this style. What is not enough is to supplement the section again.
+
+○
+
+Kosugi Misai's "Tang Poetry and Tang Poet" describes the following things.
+[# Indent two characters from here]
+"It's a friend's story, but when Ginkō Kishida of China in the first year of the Meiji era talked about Japanese poetry with the writers who met there, Seigan Yanagawa and other famous poets in Japan I added the work of that unknown person to the work, and when I showed them to them on purpose, except for the name of the author, they all took the part of that unknown person. I asked what the poor poetry was good for. Their answer was uniformly to endure the scrutiny aside from the unknown, and Seigan and others are interesting, but what? The reason was that I couldn't agree with it because of its vulgar tone. (Omitted) Yanagawa Seigan is a rule that makes this Ginkō musical. Perhaps the Japanese poet is a real writer. I would say this rule more loudly than that, but because the knowledge of the four voices of the original sound is not as good as that of other children, it is a laborious effort. By arranging five or seven kanji characters in a row, first make a poetry that is difficult for ordinary Japanese to read, and then break down the rhyme, and it is not prized by the authentic Chimpung Kampung, and it is not prized for Japanese reading. It's irrelevant, nothing. "
+[# End of indentation here]
+It is said that the liberation is nothing, but in Japan nowadays, new introductory books such as Chinese poetry are still published, and the ones such as Shigin (I like the tone of this Shigin). It's still popular (although it's not). This fact cannot be explained simply by making a fool of it.
+The Chinese poetry read in Japan is Japanese poetry, not Chinese poetry. When Chinese poetry is viewed as Chinese poetry by Chinese people, it is better if it is still worth appreciating, but even if it is not, it is made to read in Japan. The Japanese Chinese poetry that was created does not prevent the Japanese poetry from maintaining its independent existence value.
+
+○
+
+[# Indent 3 characters from here]
+Come to the crab
+Nakuya Uguhisu Arishihino
+Sometimes it ’s snowy
+Kohorunamidahashiru Hitoshiru
+[# End of indentation here]
+
+Haruo Sato's poem is written only in kana, which adds to its beauty. At the very least, it escapes the ugliness that results from the mixture of kanji and kana. Some people write waka poems in Man'yogana because they avoid the ugliness of writing them on paper, and when painters write their own works, they dislike sentences with mixed kana. For the same reason. If you mix hieroglyphs, musical note characters, and characters with completely different personalities, you cannot write beautifully no matter how much you devise. This is because the characters themselves are crowded. This is the reason why Japanese poems and haiku, which are a mixture of kanji and kana, are usually written on small strips, and Chinese poetry is written on large paper sheets.
+It is because of the beauty of hieroglyphs that calligraphy developed only in China. In the Roman alphabet, no one enjoys writing.
+The appeal of kanji is one of the reasons why Japanese people still write Chinese poetry.
+
+○
+
+[# Indent 3 characters from here]
+Kaede Bridge Temple, which has not arrived for seven years, Kaede Bridge Temple, which has not arrived for seven years
+Customer pillow still half-night bell. Customer pillow still half-night bell.
+Fugetsu Misu 輕 Impression: Fugetsu is still lightly impressed,
+Tomoeyama Koreki Nao Senri Tomoeyama | Naoho Senri leaving this << here >>.
+[# End of indentation here]
+
+This is a poem by Lu You, entitled Yado Kaede Bridge, but I translated it into the following.
+
+[# Indent 3 characters from here]
+If you come for the first time in seven years, Nanatose
+Pillow ni Kayofu Kaede Bridge
+The bell of the temple
+The sound of the bell
+Pour tears
+Make yourself a guest who enters Shu
+Tomoeyama is north of Senri Hatohoshi
+[# End of indentation here]
+
+When I showed this to a person for a trial, he said that the translated poem was quite good, but there was no special taste when the original poem was read in Japanese. .. It's a plausible story. And, of course, it may be due to my ingenuity, but our sense of Japanese reading from the Chinese style or Chinese poetry style is originally unique, and there are other expressions that should be replaced. There is no such thing.
+Haruo Sato's collection of car dust consists of translations of Chinese poetry close to fifty heads, but the original poems are all girls' works, so-called Yuru Fengyun's little child and girl's affection. It's not necessarily a coincidence. This is because it is relatively easy to express these kinds of things in Japanese, which does not depend on kanji. For the same reason, it is no coincidence that the priests at the time of the Meiji Restoration liked the spirit of Fengyun and turned to Chinese poetry. They had a depressive spirit in their hearts that could not be expressed without borrowing Chinese characters and Chinese poetry. Even in the poem of General Nogi's "Seima | Soot, standing in the sunshine outside Jinzhou Castle", there is no suitable expression other than the form of the Chinese. Whether you look at it or not, it doesn't matter at all from the beginning.
+The oil paintings and water paintings drawn by the Japanese are no longer Western paintings, but Japanese paintings, and Chinese poetry has been a Japanese poem for a long time. This is related to the fact that Kanji has already become a Japanese character.
+Today, the pronunciation of our Kanji characters is the same as that of the original and Chinese characters, but the modern Japanese maintain a pronunciation system that is completely different from that of the modern Chinese. As for what to say, Japanese kanji is no longer the only national character in Japan. And such Japanese-style kanji have been completely integrated into the Japanese language over a long period of time and have taken root deeply, and today our language is understood without the help of kanji. It's something you can't get. For example, even if it is a tank or an airplane, it doesn't make sense unless you apply the kanji to it. If you don't apply it, it doesn't make sense.
+The likes and dislikes of having Kanji so much in Japanese life over the years are another matter. It may have been an unfortunate event due to the development of Japanese language. However, as long as the Japanese use the good or bad kanji as daily characters, it is unreasonable to arrange the kanji in five or seven characters to create what is called loose Chinese poetry. It's not a story that can't be helped. However, we only need to be aware that it is Japanese poetry and autonomously devise a unique law that is different from the Chinese poetry.
+[# Indent two characters from here]
+(Addition) I wrote about "Bell voice in the middle of the night" in "Lu You Appreciation". However, I think I missed the next poem by Wang Shizhen, so I will copy it here.
+[# Indent 4 characters from here]
+Higurashi Higashitan Tadashi tide, lonely night 處 rain 蕭 蕭, sparse bell night fire Kanzanji, Kikyo Kaede No. Half-night bell
+[# Indent two characters from here]
+Wang Shizhen also heard the bells of Kanzanji in the middle of the night.
+[# End of indentation here]
+[# Raise one letter from the ground] (November 11, 1945, clean copy)
+
+○
+
+[# Indent 3 characters from here]
+Yamamae Yamago Kore Aogusa, Yamamae Yamago Kore Aogusa,
+The occultation gate of the occultation gate, leaving the occultation gate and occultating the gate again.
+Every time you think that you are on the heavenly side of the bone and flesh,
+Descendants of Okino Kino [# "See" is a mama] Pity the descendants of Okino.
+[# End of indentation here]
+
+This is a poem by Sou * [# "Karma + Ozato", Level 3 1-92-83] "Sougefu" (late Tang), entitled "Karma" in the North Guo. He is from Gui prefecture and is said to have become a provincial governor of Yang prefecture, but I don't know where both Gui prefecture and Yang prefecture are. (When I looked it up later, Guizhou was now Guilin County, Guangxi Province, and Yang County was now Yang County, Shaanxi Province.) However, this poem is probably in a place far away from the author's hometown. It's just a matter of thinking that it will be a work. The north wall is probably the mountain castle of the place where it was assigned, and the Yamamae mountain back sword green grass is because the front and back of the mountain where the castle is located are all fields or fields. The gate is the gate of Yamashiro. You can go in and out of the gate all day long. What is it that goes in and out so much? If there is nothing distracting about the castle, I can't think of my immediate family in the heavens, and then I leave the gate with Fura / \ and the old people in the village love their children and grandchildren. You will see how it is going. ――Kauifu is the meaning of this poem.
+A young grandson who had been in our hands for a year, with his mother and sister who came to meet him, today is 愈 * [# 2 character dot, 1-2-22] Towards Shanghai stand. From now on, there will be days when I will "think about being on the heavens of bones and flesh", but as I grow older, I say, "Pity the descendants of the wild man who will come and see." The phrase feels painful. I live far away from my old mother, but the feelings of thinking about my old parents and the feelings of loving my grandchildren are different. Looking at the conclusion of this poem, I think it must have been that the author had a grandchild or a younger child at that time. Going out of the gate and seeing the mercy (caressing) of Noo's descendants is a phrase that can only be done by someone who has the experience of caressing their own descendants.
+[# Raise one character from the ground] (Draft on November 14, 1945)
+
+
+
+Bottom book: "Hajime Kawakami Complete Works 21" Iwanami Shoten
+Issued on February 24, 1984 (Showa 59)
+First appearance: "Hajime Kawakami Collection Vol. 9" Chikuma Shobo
+December 15, 1964 (Showa 39)
+* The text of the original is based on the handwritten manuscript of the Kyoto Prefectural Museum.
+* The treatment of using old characters in the white text of Chinese poetry is the same as the original.
+* The part written in [] is attached by the editorial department. In the text, [] is the one that compensated for the omission, and [] that was noted is the one that corrected the error.
+Input: Hitoshi Hamanaka
+Proofreading: Yukio Hayashi
+Created September 27, 2008
+Revised December 24, 2009
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

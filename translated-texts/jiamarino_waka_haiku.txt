@@ -1,0 +1,42 @@
+Japanese poem haiku
+Masaoka Shiki
+
+-------------------------------------------------- -----
+
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) So-called "Iha"
+
+｜: Symbol that identifies the beginning of a character string with ruby
+(Example) This rule |
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Numbers are JIS X 0213 area area number, or original page and number of lines)
+(Example) 稍 * [# 2 character dot, 1-2-22]
+-------------------------------------------------- -----
+
+Tanka 31 characters are defined as 32 to 36 characters, and haiku 17 characters are defined as 18 to 23 characters. This is called a character. Therefore, it is a rule that poets and haiku masters generally come to the shrine that the use of writing is not always necessary in exceptional cases. However, this rule |
+It should be laughed at that it should not always be used because it is set to 31 characters and it is set to 17 characters, and if human beings make it arbitrarily and it deviates from it, it should be laughed at. Nari. This humor can only occur if you use the character "character", and instead of the character "character", you can try 32 characters of Japanese poems, 33 characters of Japanese poems, and 18 characters of haiku. It is not enough to know that the characters such as nine-character haiku are used, and that the characters are not the same as the characters, but are a kind of new rhyme. There are no exceptions to making a new verse.
+Some people say that Japanese poems and haiku are mellow and comfortable to eat, so you shouldn't use them.稍 * [# Two-character dot, 1-2-22] It's similar to something else, but if you think about it again, this is also something that isn't so-called. For example, if the phrase is ill-mannered or accumulates in the mouth, the standard is 31 or 17 characters, and for example, the person who examines it with the intention of 17 characters and 1 character is nineteen. I have no choice but to utter my own words, such as three characters. It is necessary to make it suitable for 31 characters and 17 characters, and for other than 31 characters and 17 characters, because of the length of the phrase and the expansion and contraction of the pronunciation. From the beginning, scrutinize the sword with the 189-character or 323-character sage, or dare to scrutinize it with the imaginary heart and soul, without deciding that it is 31-character and 17-character. There shouldn't be any 處 in the Jinaba style. The person who enters first is supposed to be familiar with the ears and mouth because it has been decided from the ancient times that it is 17 characters and 31 characters.
+[# Indent from here]
+It's not a habit to say that it's good and evil in a phrase. For example, if the words "five" and "seven" are in good condition, there are many "five words" and "seven words" in Chinese poetry, and many "five-seven" or "seven-five" in Japan. Should be. However, the only thing that is doing well with this is a sneak peek rather than a solid one.
+[# End of indentation here]
+Many people in the world liked to write the phrase, but they were the ones who tampered with the new and sought out strangeness. What are you saying? They have no choice but to put this precious verse in the category of their own sly emotions with a small eye hole. Open your eyes a little now. At the end of Chinese Gushi, you should see a long phrase with one phrase and ten characters. It's the most necessary to get rid of the consequences. In the same way as this, on the waka haiku, it is necessary to use the character to strengthen the wording. ..
+The situation: Iha, a 31-character waka poem, and a 17-character haiku have been spoken from ancient times, and most of them have fallen into staleness and fall into the profession, at least 323 today. See the need to create a new character or 189 characters. I have the intention of gradually removing the sword from this one. Even one of his vulgar cities first has only seven, seven, seven, five phrases, and then five, seven, seven, seven, five phrases or seven, seven, eight, five phrases. I've come to the point where I'm in tune. We will make this progress in each city. I have to regret the poet and haiku master.
+[# Indent from here]
+There is a law in the writing of waka poems that comes from ancient times ｜ Jiyunpo. Immediately, the four vowels of "a", "i", "u", and "o" are allowed only for certain phrases. According to the idea that 31 characters are the standard, it is a very important thing, but as I mentioned before, it is a kind of new tone without making the character vowel an exception. Above is the vowel and consonant division, which must be said to you.
+[# End of indentation here]
+[# Two characters up from the ground] [Japan Meiji 27 [# "27" is tate-chu-yoko] ・ 8/20 [# "20" is tate-chu-yoko]]
+
+
+
+Bottom book: "Shiki Complete Works, Seventh Song Theory, Song Selection" Kodansha
+First print issued on July 18, 1975 (Showa 50)
+First appearance: "Japan"
+August 20, 1894 (Meiji 27)
+Input: Naoki Kawamukai
+Proofreading: Misa Yamaguchi
+Created November 2, 2004
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

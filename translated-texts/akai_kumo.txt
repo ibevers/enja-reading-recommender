@@ -1,0 +1,50 @@
+Red cloud
+Mimei Ogawa
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Cloud << Spider >>
+
+[#]: Enterer's note: Mainly explanation of external characters and designation of emphasis marks
+(Example) [# 3 indentation] (1) [# "(1)" is tate-chu-yoko] [# "(1)" is middle heading]
+-------------------------------------------------- -----
+
+[# 3 indentation] (1) [# "(1)" is tate-chu-yoko] [# "(1)" is middle heading]
+
+Red cloud "spider", red cloud "spider",
+The red cloud of the sky in the west.
+I'm a nanny, Uba
+Still young, Toshiwaka,
+On the evening of the marriage,
+Fall into the sea, inside,
+It became a red cloud.
+
+[# 3 indentation] (2) [# "(2)" is tate-chu-yoko] [# "(2)" is middle heading]
+
+Oman, Oman,
+Still young, Toshiwaka,
+Put on the red red "Beni"
+Akai obi, squeeze it
+Karakon, Karakon,
+I'm sick
+I went to Yome, the village of Nishi, to my wife.
+Red cloud "spider", red cloud "spider",
+The red cloud of the sky in the west.
+
+
+
+Bottom book: "Complete collection of Mimei Ogawa fairy tales 3" Kodansha
+Issued the first print on January 10, 1977 (Showa 52)
+Issued the 7th edition on January 6, 1981 (Showa 56)
+First appearance: "Shonen Bunko"
+November 1906 (Meiji 39)
+* The title is "Akai Cloud" in the original text.
+* The title of the work when it first appeared is "Red Cloud".
+Input: Provo Blue Sky Spy Team Input Team
+Proofreading: Book reading kid
+Created August 7, 2012
+Revised October 16, 2013
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.

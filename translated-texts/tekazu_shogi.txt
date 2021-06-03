@@ -1,0 +1,39 @@
+Shogi
+Kinjiro Sekine
+
+-------------------------------------------------- -----
+[About the symbols that appear in the text]
+
+"":ruby
+(Example) Trouble << Tekazu >>
+
+｜: Symbol that identifies the beginning of a character string with ruby
+(Example) Ueda ｜ Aikai 《Aikei》
+-------------------------------------------------- -----
+
+Incidentally, let me introduce you to the troublesome 《Tekazu》 shogi.
+This chess shogi is 50 moves for 50 moves, 100 moves for 100 moves-the folds of the promised moves must be used to close the opponent.
+There was a young person in the play called Shibakane-san. Whenever I was young, I was fifty years old, and I used to serve lunch boxes and sake in the hut, but this Shibakane-san also likes shogi. So, when I was free for the play, I went around the place where the shogi hall was located, like Asakusa, Kanda, and Nihonbashi. However, the shogi was a poor man, as in the sample of the word "I like the sideways" of the poor, but only the shogi was excellent, and most of them were not toothy.
+And this Shibakane-san was not an attacker, but a defender. Since ordinary shogi was a mess, everyone thought that there was no reason for this, but that was also the point of Shibakane-san's advantage, and most opponents fought in shogi. I challenged "Takahi", but at the end, I was left with a slapstick.
+Anyway, if you have fifty moves, you promise fifty moves. You have to clog Shibakane-san in the folds, but you don't just point to this, and the opponent also only puts one move into each move, so if you can peck at the piece There is no reason to waste ten moves or so, because you have to deal with the opponent, and if you get a check, you have to put up your body. Moreover, Mr. Shibakane will come out with Saifu Chiyotsukai if he firmly defends his camp, so it is not good to get rid of it.
+The father of the current Terada Umekichi 6th Dan, Terada Asajiro 5th Dan, was also quite a master of this Jitte Shogi, but this Jitte Shogi is quite interesting to look at, and if the attacker is 50, 50, 6 If you have ten moves, you can take as many go stones as you promised at the beginning, and if you make one move on the offensive side, the defender will say, "Yes, one." You get one go stone at a time.
+The person who attacks is not as good as the impatient person. Even though I made a move, I made two go stones. If you think about it calmly, there is no such stupid story, but when you get absorbed in it, it's a hot story. At that time, Tokusaburo Kurokawa 4th Dan and Ueda | Aikei 4th Dan were often the customers of Mr. Shibakane.
+If you do it for entertainment, it will be quite interesting and powerful.
+Because it was so interesting, there was a risk of getting stiff when starting. Don't be stiff. The owner of Asakusa's Uoden was the one who put a lot of effort into this shogi, but Shibakane-san didn't have a leaf.
+In addition to Mr. Shibakane, one of the strongest shogi players was Nakamura, the owner of a bag store in Hatchobori, Kyobashi. This person is an attacker, and he is hard of hearing, and he feels like he can hear or not, and even if he makes a move, he does not hand over the stone. After all, if you get absorbed in it, the guardian will be able to get rid of the stones and get rid of them.
+However, although this shogi is very interesting, it is not interesting if there is too much difference between the attacker and the defender. If you do it with Hirate Comrade Kurai, it will be lively and have a terrible taste.
+*
+I had a terrible asthma last year, so I received some sympathy from people this year, but I was careful this year and I tried not to leave my house for the cold folds. Asthma wasn't a big deal either. ――Thank you very much to all the people who gave us your sympathies, and I would like to ask for your peace of mind.
+I was able to survive the cold with a terrible breeze, so in some cases this year I went to Mito, Sendai, Toyohashi, and then to Kyushu. I also think about whether it will move. There is also a story about souvenirs, or I think it's a good idea to think of an old story that I forgot.
+
+
+
+Bottom book: "Japanese famous writing, separate volume 8 shogi" work company
+Issued the first print on October 25, 1991 (Heisei 3)
+Parent of the bottom book: "Half Century of Kido" Hakubunkan
+February 1940 (Showa 15)
+Input: Takashi Tsuchiya
+Proofreading: Hiroshi Kadota
+Created March 20, 2006
+Aozora Bunko Created File:
+This file was created at Aozora Bunko (http://www.aozora.gr.jp/), an internet library. Volunteers were responsible for inputting, proofreading, and producing.
